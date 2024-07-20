@@ -1,21 +1,21 @@
 {
-  "name": "pkg-placeholder",
+  "name": "which-locked-version",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@9.5.0",
-  "description": "$description$",
+  "description": "Find the version of the dependency you are using from your lock file.",
   "author": {
     "name": "Stephen Zhou",
     "url": "https://hyoban.cc",
     "email": "hi@hyoban.cc"
   },
   "license": "MIT",
-  "homepage": "https://github.com/hyoban/pkg-placeholder#readme",
+  "homepage": "https://github.com/hyoban/which-locked-version#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyoban/pkg-placeholder.git"
+    "url": "git+https://github.com/hyoban/which-locked-version.git"
   },
-  "bugs": "https://github.com/hyoban/pkg-placeholder/issues",
+  "bugs": "https://github.com/hyoban/which-locked-version/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
