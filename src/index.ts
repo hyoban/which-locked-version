@@ -54,7 +54,7 @@ function parseYarnLockFileV1(content: string): PackageVersionMap {
     return {}
 
   const packages = lines.flatMap((i) => {
-    const [packageNameWithSpecifier, version] = i.split('\n')
+    const [packageNameWithSpecifier, version] = i.split(EOL)
     const { packageName } = extractPackageNameAndVersion(
       packageNameWithSpecifier!
         .slice(0, -1)
