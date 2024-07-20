@@ -1,7 +1,7 @@
 {
   "name": "which-locked-version",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@9.5.0",
   "description": "Find the version of the dependency you are using from your lock file.",
   "author": {
