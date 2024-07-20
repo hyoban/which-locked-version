@@ -1,0 +1,8808 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`get version for fixtures > ./fixtures/npm-3.json 1`] = `
+{
+  "@aashutoshrathi/word-wrap": Set {
+    "1.2.6",
+  },
+  "@babel/code-frame": Set {
+    "7.23.5",
+  },
+  "@babel/helper-validator-identifier": Set {
+    "7.22.20",
+  },
+  "@babel/highlight": Set {
+    "7.23.4",
+  },
+  "@eslint-community/eslint-utils": Set {
+    "4.4.0",
+  },
+  "@eslint-community/regexpp": Set {
+    "4.11.0",
+  },
+  "@eslint/compat": Set {
+    "1.1.1",
+  },
+  "@eslint/config-array": Set {
+    "0.17.0",
+  },
+  "@eslint/eslintrc": Set {
+    "3.1.0",
+  },
+  "@eslint/js": Set {
+    "9.7.0",
+  },
+  "@eslint/object-schema": Set {
+    "2.1.4",
+  },
+  "@humanwhocodes/module-importer": Set {
+    "1.0.1",
+  },
+  "@humanwhocodes/retry": Set {
+    "0.3.0",
+  },
+  "@iarna/toml": Set {
+    "2.2.5",
+  },
+  "@inquirer/figures": Set {
+    "1.0.3",
+  },
+  "@isaacs/cliui": Set {
+    "8.0.2",
+  },
+  "@jsonjoy.com/base64": Set {
+    "1.1.1",
+  },
+  "@jsonjoy.com/json-pack": Set {
+    "1.0.3",
+  },
+  "@jsonjoy.com/util": Set {
+    "1.1.2",
+  },
+  "@mapbox/node-pre-gyp": Set {
+    "1.0.11",
+  },
+  "@nodelib/fs.scandir": Set {
+    "2.1.5",
+  },
+  "@nodelib/fs.stat": Set {
+    "2.0.5",
+  },
+  "@nodelib/fs.walk": Set {
+    "1.2.8",
+  },
+  "@npmcli/config": Set {
+    "8.1.0",
+  },
+  "@npmcli/map-workspaces": Set {
+    "3.0.4",
+  },
+  "@npmcli/name-from-folder": Set {
+    "2.0.0",
+  },
+  "@octokit/auth-token": Set {
+    "4.0.0",
+  },
+  "@octokit/core": Set {
+    "5.1.0",
+  },
+  "@octokit/endpoint": Set {
+    "9.0.4",
+  },
+  "@octokit/graphql": Set {
+    "7.0.2",
+  },
+  "@octokit/openapi-types": Set {
+    "19.1.0",
+    "22.2.0",
+    "22.0.1",
+  },
+  "@octokit/plugin-paginate-rest": Set {
+    "11.3.1",
+  },
+  "@octokit/plugin-request-log": Set {
+    "4.0.0",
+  },
+  "@octokit/plugin-rest-endpoint-methods": Set {
+    "13.2.2",
+  },
+  "@octokit/request": Set {
+    "8.1.6",
+  },
+  "@octokit/request-error": Set {
+    "5.1.0",
+  },
+  "@octokit/rest": Set {
+    "20.1.1",
+  },
+  "@octokit/types": Set {
+    "13.5.0",
+    "13.4.0",
+    "12.4.0",
+  },
+  "@pkgjs/parseargs": Set {
+    "0.11.0",
+  },
+  "@pkgr/core": Set {
+    "0.1.1",
+  },
+  "@pnpm/config.env-replace": Set {
+    "1.1.0",
+  },
+  "@pnpm/constants": Set {
+    "7.1.1",
+  },
+  "@pnpm/error": Set {
+    "5.0.3",
+  },
+  "@pnpm/network.ca-file": Set {
+    "1.0.2",
+  },
+  "@pnpm/npm-conf": Set {
+    "2.2.2",
+  },
+  "@pnpm/workspace.read-manifest": Set {
+    "1.0.3",
+  },
+  "@rollup/pluginutils": Set {
+    "4.2.1",
+  },
+  "@rtsao/scc": Set {
+    "1.1.0",
+  },
+  "@sindresorhus/is": Set {
+    "5.6.0",
+  },
+  "@sindresorhus/merge-streams": Set {
+    "2.2.1",
+  },
+  "@sinonjs/commons": Set {
+    "3.0.1",
+    "2.0.0",
+  },
+  "@sinonjs/fake-timers": Set {
+    "11.2.2",
+  },
+  "@sinonjs/samsam": Set {
+    "8.0.0",
+  },
+  "@sinonjs/text-encoding": Set {
+    "0.7.2",
+  },
+  "@snyk/github-codeowners": Set {
+    "1.1.0",
+  },
+  "@szmarczak/http-timer": Set {
+    "5.0.1",
+  },
+  "@tootallnate/quickjs-emscripten": Set {
+    "0.23.0",
+  },
+  "@types/acorn": Set {
+    "4.0.6",
+  },
+  "@types/concat-stream": Set {
+    "2.0.3",
+  },
+  "@types/debug": Set {
+    "4.1.12",
+  },
+  "@types/estree": Set {
+    "1.0.5",
+  },
+  "@types/estree-jsx": Set {
+    "1.0.5",
+  },
+  "@types/hast": Set {
+    "3.0.4",
+  },
+  "@types/http-cache-semantics": Set {
+    "4.0.4",
+  },
+  "@types/is-empty": Set {
+    "1.2.3",
+  },
+  "@types/mdast": Set {
+    "4.0.3",
+  },
+  "@types/ms": Set {
+    "0.7.34",
+  },
+  "@types/node": Set {
+    "20.14.10",
+  },
+  "@types/normalize-package-data": Set {
+    "2.4.4",
+  },
+  "@types/supports-color": Set {
+    "8.1.3",
+  },
+  "@types/text-table": Set {
+    "0.2.5",
+  },
+  "@types/unist": Set {
+    "3.0.2",
+    "2.0.10",
+  },
+  "@typescript-eslint/scope-manager": Set {
+    "7.16.0",
+  },
+  "@typescript-eslint/types": Set {
+    "7.16.0",
+  },
+  "@typescript-eslint/typescript-estree": Set {
+    "7.16.0",
+  },
+  "@typescript-eslint/utils": Set {
+    "7.16.0",
+  },
+  "@typescript-eslint/visitor-keys": Set {
+    "7.16.0",
+  },
+  "@ungap/structured-clone": Set {
+    "1.2.0",
+  },
+  "@vercel/nft": Set {
+    "0.26.4",
+  },
+  "@voxpelli/semver-set": Set {
+    "5.0.2",
+  },
+  "@voxpelli/type-helpers": Set {
+    "3.4.0",
+  },
+  "@voxpelli/typed-utils": Set {
+    "1.7.0",
+  },
+  "abbrev": Set {
+    "1.1.1",
+    "2.0.0",
+  },
+  "acorn": Set {
+    "8.12.0",
+  },
+  "acorn-import-attributes": Set {
+    "1.9.2",
+  },
+  "acorn-jsx": Set {
+    "5.3.2",
+  },
+  "acorn-walk": Set {
+    "8.3.2",
+  },
+  "agent-base": Set {
+    "6.0.2",
+    "7.1.0",
+  },
+  "aggregate-error": Set {
+    "3.1.0",
+  },
+  "ajv": Set {
+    "6.12.6",
+  },
+  "ansi-align": Set {
+    "3.0.1",
+  },
+  "ansi-escapes": Set {
+    "4.3.2",
+  },
+  "ansi-regex": Set {
+    "5.0.1",
+    "6.0.1",
+  },
+  "ansi-styles": Set {
+    "3.2.1",
+    "6.2.1",
+    "4.3.0",
+  },
+  "anymatch": Set {
+    "3.1.3",
+  },
+  "aproba": Set {
+    "2.0.0",
+  },
+  "are-we-there-yet": Set {
+    "2.0.0",
+  },
+  "argparse": Set {
+    "2.0.1",
+    "1.0.10",
+  },
+  "array-find-index": Set {
+    "1.0.2",
+  },
+  "array-union": Set {
+    "2.1.0",
+  },
+  "arrgv": Set {
+    "1.0.2",
+  },
+  "arrify": Set {
+    "3.0.0",
+  },
+  "ast-types": Set {
+    "0.13.4",
+  },
+  "async-retry": Set {
+    "1.3.3",
+  },
+  "async-sema": Set {
+    "3.1.1",
+  },
+  "ava": Set {
+    "6.1.3",
+  },
+  "bail": Set {
+    "2.0.2",
+  },
+  "balanced-match": Set {
+    "1.0.2",
+  },
+  "base64-js": Set {
+    "1.5.1",
+  },
+  "basic-ftp": Set {
+    "5.0.4",
+  },
+  "before-after-hook": Set {
+    "2.2.3",
+  },
+  "binary-extensions": Set {
+    "2.2.0",
+  },
+  "bindings": Set {
+    "1.5.0",
+  },
+  "bl": Set {
+    "4.1.0",
+  },
+  "blueimp-md5": Set {
+    "2.19.0",
+  },
+  "boxen": Set {
+    "7.1.1",
+  },
+  "brace-expansion": Set {
+    "2.0.1",
+    "1.1.11",
+  },
+  "braces": Set {
+    "3.0.3",
+  },
+  "buffer": Set {
+    "5.7.1",
+  },
+  "buffer-from": Set {
+    "1.1.2",
+  },
+  "buffered-async-iterable": Set {
+    "0.3.0",
+  },
+  "bundle-name": Set {
+    "4.1.0",
+  },
+  "cacheable-lookup": Set {
+    "7.0.0",
+  },
+  "cacheable-request": Set {
+    "10.2.14",
+  },
+  "callsites": Set {
+    "4.1.0",
+    "3.1.0",
+  },
+  "camelcase": Set {
+    "7.0.1",
+  },
+  "cbor": Set {
+    "9.0.1",
+  },
+  "ccount": Set {
+    "2.0.1",
+  },
+  "chalk": Set {
+    "2.4.2",
+    "5.3.0",
+    "4.1.2",
+  },
+  "character-entities": Set {
+    "2.0.2",
+  },
+  "character-entities-html4": Set {
+    "2.1.0",
+  },
+  "character-entities-legacy": Set {
+    "3.0.0",
+  },
+  "character-reference-invalid": Set {
+    "2.0.1",
+  },
+  "chardet": Set {
+    "0.7.0",
+  },
+  "chokidar": Set {
+    "3.5.3",
+  },
+  "chownr": Set {
+    "2.0.0",
+  },
+  "chunkd": Set {
+    "2.0.1",
+  },
+  "ci-info": Set {
+    "4.0.0",
+    "3.9.0",
+  },
+  "ci-parallel-vars": Set {
+    "1.0.1",
+  },
+  "clean-stack": Set {
+    "2.2.0",
+  },
+  "cli-boxes": Set {
+    "3.0.0",
+  },
+  "cli-cursor": Set {
+    "3.1.0",
+    "4.0.0",
+  },
+  "cli-spinners": Set {
+    "2.9.2",
+  },
+  "cli-truncate": Set {
+    "4.0.0",
+  },
+  "cli-width": Set {
+    "4.1.0",
+  },
+  "cliui": Set {
+    "8.0.1",
+  },
+  "clone": Set {
+    "1.0.4",
+  },
+  "code-excerpt": Set {
+    "4.0.0",
+  },
+  "color-convert": Set {
+    "2.0.1",
+    "1.9.3",
+  },
+  "color-name": Set {
+    "1.1.4",
+    "1.1.3",
+  },
+  "color-support": Set {
+    "1.1.3",
+  },
+  "comma-separated-tokens": Set {
+    "2.0.3",
+  },
+  "commander": Set {
+    "4.1.1",
+  },
+  "common-path-prefix": Set {
+    "3.0.0",
+  },
+  "concat-map": Set {
+    "0.0.1",
+  },
+  "concat-stream": Set {
+    "2.0.0",
+  },
+  "concordance": Set {
+    "5.0.4",
+  },
+  "config-chain": Set {
+    "1.1.13",
+  },
+  "configstore": Set {
+    "6.0.0",
+  },
+  "console-control-strings": Set {
+    "1.1.0",
+  },
+  "convert-to-spaces": Set {
+    "2.0.1",
+  },
+  "cosmiconfig": Set {
+    "9.0.0",
+  },
+  "cross-spawn": Set {
+    "7.0.3",
+  },
+  "crypto-random-string": Set {
+    "4.0.0",
+  },
+  "currently-unhandled": Set {
+    "0.4.1",
+  },
+  "data-uri-to-buffer": Set {
+    "4.0.1",
+    "6.0.1",
+  },
+  "date-time": Set {
+    "3.1.0",
+  },
+  "debug": Set {
+    "4.3.4",
+    "3.2.7",
+  },
+  "decode-named-character-reference": Set {
+    "1.0.2",
+  },
+  "decompress-response": Set {
+    "6.0.0",
+  },
+  "deep-extend": Set {
+    "0.6.0",
+  },
+  "deep-is": Set {
+    "0.1.4",
+  },
+  "default-browser": Set {
+    "5.2.1",
+  },
+  "default-browser-id": Set {
+    "5.0.0",
+  },
+  "defaults": Set {
+    "1.0.4",
+  },
+  "defer-to-connect": Set {
+    "2.0.1",
+  },
+  "define-lazy-prop": Set {
+    "3.0.0",
+  },
+  "degenerator": Set {
+    "5.0.1",
+  },
+  "delegates": Set {
+    "1.0.0",
+  },
+  "deprecation": Set {
+    "2.3.1",
+  },
+  "dequal": Set {
+    "2.0.3",
+  },
+  "detect-libc": Set {
+    "2.0.2",
+  },
+  "devlop": Set {
+    "1.1.0",
+  },
+  "diff": Set {
+    "5.2.0",
+  },
+  "dir-glob": Set {
+    "3.0.1",
+  },
+  "doctrine": Set {
+    "3.0.0",
+  },
+  "dot-prop": Set {
+    "6.0.1",
+  },
+  "eastasianwidth": Set {
+    "0.2.0",
+  },
+  "easy-table": Set {
+    "1.2.0",
+  },
+  "emittery": Set {
+    "1.0.1",
+  },
+  "emoji-regex": Set {
+    "8.0.0",
+    "10.3.0",
+    "9.2.2",
+  },
+  "enhance-visitors": Set {
+    "1.0.0",
+  },
+  "env-paths": Set {
+    "2.2.1",
+  },
+  "error-ex": Set {
+    "1.3.2",
+  },
+  "escalade": Set {
+    "3.1.1",
+  },
+  "escape-goat": Set {
+    "4.0.0",
+  },
+  "escape-string-regexp": Set {
+    "1.0.5",
+    "4.0.0",
+    "5.0.0",
+    "2.0.0",
+  },
+  "escodegen": Set {
+    "2.1.0",
+  },
+  "eslint": Set {
+    "9.7.0",
+  },
+  "eslint-config-prettier": Set {
+    "9.1.0",
+  },
+  "eslint-import-resolver-node": Set {
+    "0.3.9",
+  },
+  "eslint-plugin-ava": Set {
+    "15.0.1",
+  },
+  "eslint-plugin-import-x": Set {
+    "3.0.1",
+  },
+  "eslint-plugin-prettier": Set {
+    "5.1.3",
+  },
+  "eslint-scope": Set {
+    "8.0.2",
+  },
+  "eslint-utils": Set {
+    "3.0.0",
+  },
+  "eslint-visitor-keys": Set {
+    "4.0.0",
+    "2.1.0",
+    "3.4.3",
+  },
+  "espree": Set {
+    "10.0.1",
+    "10.1.0",
+    "9.6.1",
+  },
+  "esprima": Set {
+    "4.0.1",
+  },
+  "espurify": Set {
+    "2.1.1",
+  },
+  "esquery": Set {
+    "1.5.0",
+  },
+  "esrecurse": Set {
+    "4.3.0",
+  },
+  "estraverse": Set {
+    "5.3.0",
+  },
+  "estree-util-is-identifier-name": Set {
+    "3.0.0",
+  },
+  "estree-util-visit": Set {
+    "2.0.0",
+  },
+  "estree-walker": Set {
+    "2.0.2",
+  },
+  "esutils": Set {
+    "2.0.3",
+  },
+  "execa": Set {
+    "8.0.1",
+    "5.1.1",
+  },
+  "extend": Set {
+    "3.0.2",
+  },
+  "external-editor": Set {
+    "3.1.0",
+  },
+  "fast-deep-equal": Set {
+    "3.1.3",
+  },
+  "fast-diff": Set {
+    "1.3.0",
+  },
+  "fast-glob": Set {
+    "3.3.2",
+  },
+  "fast-json-stable-stringify": Set {
+    "2.1.0",
+  },
+  "fast-levenshtein": Set {
+    "2.0.6",
+  },
+  "fastq": Set {
+    "1.16.0",
+  },
+  "fault": Set {
+    "2.0.1",
+  },
+  "fetch-blob": Set {
+    "3.2.0",
+  },
+  "figures": Set {
+    "6.1.0",
+  },
+  "file-entry-cache": Set {
+    "8.0.0",
+  },
+  "file-uri-to-path": Set {
+    "1.0.0",
+  },
+  "fill-range": Set {
+    "7.1.1",
+  },
+  "find-up": Set {
+    "5.0.0",
+  },
+  "find-up-simple": Set {
+    "1.0.0",
+  },
+  "flat-cache": Set {
+    "4.0.1",
+  },
+  "flatted": Set {
+    "3.3.1",
+  },
+  "foreground-child": Set {
+    "3.1.1",
+  },
+  "form-data-encoder": Set {
+    "2.1.4",
+  },
+  "format": Set {
+    "0.2.2",
+  },
+  "formdata-polyfill": Set {
+    "4.0.10",
+  },
+  "fs-extra": Set {
+    "8.1.0",
+  },
+  "fs-minipass": Set {
+    "2.1.0",
+  },
+  "fs-monkey": Set {
+    "1.0.6",
+  },
+  "fs.realpath": Set {
+    "1.0.0",
+  },
+  "fsevents": Set {
+    "2.3.3",
+  },
+  "function-bind": Set {
+    "1.1.2",
+  },
+  "gauge": Set {
+    "3.0.2",
+  },
+  "get-caller-file": Set {
+    "2.0.5",
+  },
+  "get-east-asian-width": Set {
+    "1.2.0",
+  },
+  "get-stream": Set {
+    "6.0.1",
+    "8.0.1",
+  },
+  "get-tsconfig": Set {
+    "4.7.5",
+  },
+  "get-uri": Set {
+    "6.0.2",
+  },
+  "git-up": Set {
+    "7.0.0",
+  },
+  "git-url-parse": Set {
+    "14.0.0",
+  },
+  "glob": Set {
+    "7.2.3",
+    "10.3.10",
+  },
+  "glob-parent": Set {
+    "6.0.2",
+    "5.1.2",
+  },
+  "global-directory": Set {
+    "4.0.1",
+  },
+  "globals": Set {
+    "14.0.0",
+    "15.8.0",
+  },
+  "globby": Set {
+    "11.1.0",
+    "14.0.2",
+  },
+  "got": Set {
+    "13.0.0",
+  },
+  "graceful-fs": Set {
+    "4.2.10",
+    "4.2.11",
+  },
+  "has-flag": Set {
+    "3.0.0",
+    "4.0.0",
+  },
+  "has-unicode": Set {
+    "2.0.1",
+  },
+  "hasown": Set {
+    "2.0.0",
+  },
+  "hast-util-parse-selector": Set {
+    "4.0.0",
+  },
+  "hastscript": Set {
+    "9.0.0",
+  },
+  "hosted-git-info": Set {
+    "7.0.1",
+  },
+  "http-cache-semantics": Set {
+    "4.1.1",
+  },
+  "http-proxy-agent": Set {
+    "7.0.1",
+  },
+  "http2-wrapper": Set {
+    "2.2.1",
+  },
+  "https-proxy-agent": Set {
+    "5.0.1",
+    "7.0.3",
+  },
+  "human-signals": Set {
+    "5.0.0",
+    "2.1.0",
+  },
+  "hyperdyperid": Set {
+    "1.2.0",
+  },
+  "iconv-lite": Set {
+    "0.4.24",
+  },
+  "ieee754": Set {
+    "1.2.1",
+  },
+  "ignore": Set {
+    "5.3.0",
+  },
+  "ignore-by-default": Set {
+    "2.1.0",
+  },
+  "import-fresh": Set {
+    "3.3.0",
+  },
+  "import-lazy": Set {
+    "4.0.0",
+  },
+  "import-meta-resolve": Set {
+    "4.1.0",
+  },
+  "import-modules": Set {
+    "2.1.0",
+  },
+  "imurmurhash": Set {
+    "0.1.4",
+  },
+  "indent-string": Set {
+    "4.0.0",
+    "5.0.0",
+  },
+  "index-to-position": Set {
+    "0.1.2",
+  },
+  "inflight": Set {
+    "1.0.6",
+  },
+  "inherits": Set {
+    "2.0.4",
+  },
+  "ini": Set {
+    "1.3.8",
+    "4.1.1",
+  },
+  "inquirer": Set {
+    "9.3.2",
+  },
+  "installed-check": Set {
+    "9.3.0",
+  },
+  "installed-check-core": Set {
+    "8.3.0",
+  },
+  "interpret": Set {
+    "1.4.0",
+  },
+  "ip-address": Set {
+    "9.0.5",
+  },
+  "irregular-plurals": Set {
+    "3.5.0",
+  },
+  "is-alphabetical": Set {
+    "2.0.1",
+  },
+  "is-alphanumerical": Set {
+    "2.0.1",
+  },
+  "is-arrayish": Set {
+    "0.2.1",
+  },
+  "is-binary-path": Set {
+    "2.1.0",
+  },
+  "is-ci": Set {
+    "3.0.1",
+  },
+  "is-core-module": Set {
+    "2.13.1",
+  },
+  "is-decimal": Set {
+    "2.0.1",
+  },
+  "is-docker": Set {
+    "3.0.0",
+  },
+  "is-empty": Set {
+    "1.2.0",
+  },
+  "is-extglob": Set {
+    "2.1.1",
+  },
+  "is-fullwidth-code-point": Set {
+    "3.0.0",
+    "4.0.0",
+  },
+  "is-glob": Set {
+    "4.0.3",
+  },
+  "is-hexadecimal": Set {
+    "2.0.1",
+  },
+  "is-in-ci": Set {
+    "0.1.0",
+  },
+  "is-inside-container": Set {
+    "1.0.0",
+  },
+  "is-installed-globally": Set {
+    "1.0.0",
+  },
+  "is-interactive": Set {
+    "1.0.0",
+    "2.0.0",
+  },
+  "is-npm": Set {
+    "6.0.0",
+  },
+  "is-number": Set {
+    "7.0.0",
+  },
+  "is-obj": Set {
+    "2.0.0",
+  },
+  "is-path-inside": Set {
+    "4.0.0",
+    "3.0.3",
+  },
+  "is-plain-obj": Set {
+    "4.1.0",
+  },
+  "is-plain-object": Set {
+    "5.0.0",
+  },
+  "is-promise": Set {
+    "4.0.0",
+  },
+  "is-ssh": Set {
+    "1.4.0",
+  },
+  "is-stream": Set {
+    "3.0.0",
+    "2.0.1",
+  },
+  "is-typedarray": Set {
+    "1.0.0",
+  },
+  "is-unicode-supported": Set {
+    "2.0.0",
+    "0.1.0",
+    "1.3.0",
+  },
+  "is-wsl": Set {
+    "3.1.0",
+  },
+  "isexe": Set {
+    "2.0.0",
+  },
+  "issue-parser": Set {
+    "7.0.1",
+  },
+  "jackspeak": Set {
+    "2.3.6",
+  },
+  "jiti": Set {
+    "1.21.6",
+  },
+  "js-string-escape": Set {
+    "1.0.1",
+  },
+  "js-tokens": Set {
+    "4.0.0",
+  },
+  "js-yaml": Set {
+    "4.1.0",
+    "3.14.1",
+  },
+  "jsbn": Set {
+    "1.1.0",
+  },
+  "json-buffer": Set {
+    "3.0.1",
+  },
+  "json-parse-even-better-errors": Set {
+    "3.0.1",
+    "2.3.1",
+  },
+  "json-schema-traverse": Set {
+    "0.4.1",
+  },
+  "json-stable-stringify-without-jsonify": Set {
+    "1.0.1",
+  },
+  "json-stringify-safe": Set {
+    "5.0.1",
+  },
+  "json5": Set {
+    "2.2.3",
+  },
+  "jsonfile": Set {
+    "4.0.0",
+  },
+  "just-extend": Set {
+    "6.2.0",
+  },
+  "keyv": Set {
+    "4.5.4",
+  },
+  "knip": Set {
+    "5.26.0",
+  },
+  "ky": Set {
+    "1.4.0",
+  },
+  "latest-version": Set {
+    "9.0.0",
+  },
+  "levn": Set {
+    "0.4.1",
+  },
+  "lines-and-columns": Set {
+    "1.2.4",
+    "2.0.4",
+  },
+  "list-installed": Set {
+    "5.3.0",
+  },
+  "load-json-file": Set {
+    "7.0.1",
+  },
+  "load-plugin": Set {
+    "6.0.2",
+  },
+  "locate-path": Set {
+    "6.0.0",
+  },
+  "lodash": Set {
+    "4.17.21",
+  },
+  "lodash.capitalize": Set {
+    "4.2.1",
+  },
+  "lodash.escaperegexp": Set {
+    "4.1.2",
+  },
+  "lodash.get": Set {
+    "4.4.2",
+  },
+  "lodash.isplainobject": Set {
+    "4.0.6",
+  },
+  "lodash.isstring": Set {
+    "4.0.1",
+  },
+  "lodash.merge": Set {
+    "4.6.2",
+  },
+  "lodash.uniqby": Set {
+    "4.7.0",
+  },
+  "log-symbols": Set {
+    "4.1.0",
+    "6.0.0",
+  },
+  "longest-streak": Set {
+    "3.1.0",
+  },
+  "lowercase-keys": Set {
+    "3.0.0",
+  },
+  "lru-cache": Set {
+    "10.1.0",
+    "7.18.3",
+  },
+  "macos-release": Set {
+    "3.2.0",
+  },
+  "make-dir": Set {
+    "3.1.0",
+  },
+  "markdown-extensions": Set {
+    "2.0.0",
+  },
+  "markdown-table": Set {
+    "3.0.3",
+  },
+  "matcher": Set {
+    "5.0.0",
+  },
+  "md5-hex": Set {
+    "3.0.1",
+  },
+  "mdast-util-directive": Set {
+    "3.0.0",
+  },
+  "mdast-util-find-and-replace": Set {
+    "3.0.1",
+  },
+  "mdast-util-from-markdown": Set {
+    "2.0.0",
+  },
+  "mdast-util-frontmatter": Set {
+    "2.0.1",
+  },
+  "mdast-util-gfm": Set {
+    "3.0.0",
+  },
+  "mdast-util-gfm-autolink-literal": Set {
+    "2.0.0",
+  },
+  "mdast-util-gfm-footnote": Set {
+    "2.0.0",
+  },
+  "mdast-util-gfm-strikethrough": Set {
+    "2.0.0",
+  },
+  "mdast-util-gfm-table": Set {
+    "2.0.0",
+  },
+  "mdast-util-gfm-task-list-item": Set {
+    "2.0.0",
+  },
+  "mdast-util-mdx": Set {
+    "3.0.0",
+  },
+  "mdast-util-mdx-expression": Set {
+    "2.0.0",
+  },
+  "mdast-util-mdx-jsx": Set {
+    "3.1.2",
+  },
+  "mdast-util-mdxjs-esm": Set {
+    "2.0.1",
+  },
+  "mdast-util-phrasing": Set {
+    "4.0.0",
+  },
+  "mdast-util-to-markdown": Set {
+    "2.1.0",
+  },
+  "mdast-util-to-string": Set {
+    "4.0.0",
+  },
+  "memfs": Set {
+    "4.9.3",
+  },
+  "memoize": Set {
+    "10.0.0",
+  },
+  "meow": Set {
+    "12.1.1",
+  },
+  "merge-stream": Set {
+    "2.0.0",
+  },
+  "merge2": Set {
+    "1.4.1",
+  },
+  "micro-spelling-correcter": Set {
+    "1.1.1",
+  },
+  "micromark": Set {
+    "4.0.0",
+  },
+  "micromark-core-commonmark": Set {
+    "2.0.0",
+  },
+  "micromark-extension-directive": Set {
+    "3.0.0",
+  },
+  "micromark-extension-frontmatter": Set {
+    "2.0.0",
+  },
+  "micromark-extension-gfm": Set {
+    "3.0.0",
+  },
+  "micromark-extension-gfm-autolink-literal": Set {
+    "2.0.0",
+  },
+  "micromark-extension-gfm-footnote": Set {
+    "2.0.0",
+  },
+  "micromark-extension-gfm-strikethrough": Set {
+    "2.0.0",
+  },
+  "micromark-extension-gfm-table": Set {
+    "2.0.0",
+  },
+  "micromark-extension-gfm-tagfilter": Set {
+    "2.0.0",
+  },
+  "micromark-extension-gfm-task-list-item": Set {
+    "2.0.1",
+  },
+  "micromark-extension-mdx-expression": Set {
+    "3.0.0",
+  },
+  "micromark-extension-mdx-jsx": Set {
+    "3.0.0",
+  },
+  "micromark-extension-mdx-md": Set {
+    "2.0.0",
+  },
+  "micromark-extension-mdxjs": Set {
+    "3.0.0",
+  },
+  "micromark-extension-mdxjs-esm": Set {
+    "3.0.0",
+  },
+  "micromark-factory-destination": Set {
+    "2.0.0",
+  },
+  "micromark-factory-label": Set {
+    "2.0.0",
+  },
+  "micromark-factory-mdx-expression": Set {
+    "2.0.1",
+  },
+  "micromark-factory-space": Set {
+    "2.0.0",
+  },
+  "micromark-factory-title": Set {
+    "2.0.0",
+  },
+  "micromark-factory-whitespace": Set {
+    "2.0.0",
+  },
+  "micromark-util-character": Set {
+    "2.0.1",
+  },
+  "micromark-util-chunked": Set {
+    "2.0.0",
+  },
+  "micromark-util-classify-character": Set {
+    "2.0.0",
+  },
+  "micromark-util-combine-extensions": Set {
+    "2.0.0",
+  },
+  "micromark-util-decode-numeric-character-reference": Set {
+    "2.0.1",
+  },
+  "micromark-util-decode-string": Set {
+    "2.0.0",
+  },
+  "micromark-util-encode": Set {
+    "2.0.0",
+  },
+  "micromark-util-events-to-acorn": Set {
+    "2.0.2",
+  },
+  "micromark-util-html-tag-name": Set {
+    "2.0.0",
+  },
+  "micromark-util-normalize-identifier": Set {
+    "2.0.0",
+  },
+  "micromark-util-resolve-all": Set {
+    "2.0.0",
+  },
+  "micromark-util-sanitize-uri": Set {
+    "2.0.0",
+  },
+  "micromark-util-subtokenize": Set {
+    "2.0.0",
+  },
+  "micromark-util-symbol": Set {
+    "2.0.0",
+  },
+  "micromark-util-types": Set {
+    "2.0.0",
+  },
+  "micromatch": Set {
+    "4.0.5",
+  },
+  "mime-db": Set {
+    "1.52.0",
+  },
+  "mime-types": Set {
+    "2.1.35",
+  },
+  "mimic-fn": Set {
+    "4.0.0",
+    "2.1.0",
+  },
+  "mimic-function": Set {
+    "5.0.0",
+  },
+  "mimic-response": Set {
+    "3.1.0",
+    "4.0.0",
+  },
+  "minimatch": Set {
+    "9.0.3",
+    "9.0.5",
+    "3.1.2",
+  },
+  "minimist": Set {
+    "1.2.8",
+  },
+  "minipass": Set {
+    "3.3.6",
+    "7.0.4",
+    "5.0.0",
+  },
+  "minizlib": Set {
+    "2.1.2",
+  },
+  "mkdirp": Set {
+    "1.0.4",
+  },
+  "mock-stdio": Set {
+    "1.0.3",
+  },
+  "ms": Set {
+    "2.1.2",
+    "2.1.3",
+  },
+  "mute-stream": Set {
+    "1.0.0",
+  },
+  "natural-compare": Set {
+    "1.4.0",
+  },
+  "netmask": Set {
+    "2.0.2",
+  },
+  "new-github-release-url": Set {
+    "2.0.0",
+  },
+  "nise": Set {
+    "6.0.0",
+  },
+  "nock": Set {
+    "13.5.4",
+  },
+  "node-domexception": Set {
+    "1.0.0",
+  },
+  "node-fetch": Set {
+    "2.7.0",
+    "3.3.2",
+  },
+  "node-gyp-build": Set {
+    "4.8.0",
+  },
+  "nofilter": Set {
+    "3.1.0",
+  },
+  "nopt": Set {
+    "5.0.0",
+    "7.2.0",
+  },
+  "normalize-package-data": Set {
+    "6.0.0",
+  },
+  "normalize-path": Set {
+    "3.0.0",
+  },
+  "normalize-url": Set {
+    "8.0.0",
+  },
+  "npm-normalize-package-bin": Set {
+    "3.0.1",
+  },
+  "npm-run-path": Set {
+    "5.2.0",
+    "4.0.1",
+  },
+  "npmlog": Set {
+    "5.0.1",
+  },
+  "object-assign": Set {
+    "4.1.1",
+  },
+  "once": Set {
+    "1.4.0",
+  },
+  "onetime": Set {
+    "6.0.0",
+    "5.1.2",
+  },
+  "open": Set {
+    "10.1.0",
+  },
+  "optionator": Set {
+    "0.9.3",
+  },
+  "ora": Set {
+    "5.4.1",
+    "8.0.1",
+  },
+  "os-name": Set {
+    "5.1.0",
+  },
+  "os-tmpdir": Set {
+    "1.0.2",
+  },
+  "p-cancelable": Set {
+    "3.0.0",
+  },
+  "p-limit": Set {
+    "3.1.0",
+  },
+  "p-locate": Set {
+    "5.0.0",
+  },
+  "p-map": Set {
+    "4.0.0",
+    "7.0.1",
+  },
+  "pac-proxy-agent": Set {
+    "7.0.1",
+  },
+  "pac-resolver": Set {
+    "7.0.1",
+  },
+  "package-config": Set {
+    "5.0.0",
+  },
+  "package-json": Set {
+    "10.0.0",
+  },
+  "parent-module": Set {
+    "1.0.1",
+  },
+  "parse-entities": Set {
+    "4.0.1",
+  },
+  "parse-json": Set {
+    "5.2.0",
+    "8.1.0",
+    "7.1.1",
+  },
+  "parse-ms": Set {
+    "4.0.0",
+  },
+  "parse-path": Set {
+    "7.0.0",
+  },
+  "parse-url": Set {
+    "8.1.0",
+  },
+  "path-exists": Set {
+    "4.0.0",
+  },
+  "path-is-absolute": Set {
+    "1.0.1",
+  },
+  "path-key": Set {
+    "4.0.0",
+    "3.1.1",
+  },
+  "path-parse": Set {
+    "1.0.7",
+  },
+  "path-scurry": Set {
+    "1.10.1",
+  },
+  "path-to-regexp": Set {
+    "6.2.2",
+  },
+  "path-type": Set {
+    "4.0.0",
+    "5.0.0",
+  },
+  "picocolors": Set {
+    "1.0.1",
+  },
+  "picomatch": Set {
+    "3.0.1",
+    "4.0.2",
+    "4.0.1",
+    "2.3.1",
+  },
+  "pkg-dir": Set {
+    "5.0.0",
+  },
+  "plur": Set {
+    "5.1.0",
+  },
+  "pony-cause": Set {
+    "2.1.10",
+  },
+  "prelude-ls": Set {
+    "1.2.1",
+  },
+  "prettier": Set {
+    "3.3.3",
+  },
+  "prettier-linter-helpers": Set {
+    "1.0.0",
+  },
+  "pretty-ms": Set {
+    "9.0.0",
+  },
+  "proc-log": Set {
+    "3.0.0",
+  },
+  "propagate": Set {
+    "2.0.1",
+  },
+  "property-information": Set {
+    "6.5.0",
+  },
+  "proto-list": Set {
+    "1.2.4",
+  },
+  "protocols": Set {
+    "2.0.1",
+  },
+  "proxy-agent": Set {
+    "6.4.0",
+  },
+  "proxy-from-env": Set {
+    "1.1.0",
+  },
+  "punycode": Set {
+    "2.3.1",
+  },
+  "pupa": Set {
+    "3.1.0",
+  },
+  "queue-microtask": Set {
+    "1.2.3",
+  },
+  "quick-lru": Set {
+    "5.1.1",
+  },
+  "rc": Set {
+    "1.2.8",
+  },
+  "read-package-json-fast": Set {
+    "3.0.2",
+  },
+  "read-pkg": Set {
+    "9.0.1",
+  },
+  "read-workspaces": Set {
+    "1.2.0",
+  },
+  "read-yaml-file": Set {
+    "2.1.0",
+  },
+  "readable-stream": Set {
+    "3.6.2",
+  },
+  "readdirp": Set {
+    "3.6.0",
+  },
+  "rechoir": Set {
+    "0.6.2",
+  },
+  "registry-auth-token": Set {
+    "5.0.2",
+  },
+  "registry-url": Set {
+    "6.0.1",
+  },
+  "remark": Set {
+    "15.0.1",
+  },
+  "remark-cli": Set {
+    "12.0.1",
+  },
+  "remark-directive": Set {
+    "3.0.0",
+  },
+  "remark-frontmatter": Set {
+    "5.0.0",
+  },
+  "remark-gfm": Set {
+    "4.0.0",
+  },
+  "remark-mdx": Set {
+    "3.0.1",
+  },
+  "remark-order-reference-links": Set {
+    "0.0.3",
+  },
+  "remark-parse": Set {
+    "11.0.0",
+  },
+  "remark-preset-webpro": Set {
+    "1.1.0",
+  },
+  "remark-reference-links": Set {
+    "7.0.0",
+  },
+  "remark-stringify": Set {
+    "11.0.0",
+  },
+  "require-directory": Set {
+    "2.1.1",
+  },
+  "resolve": Set {
+    "1.22.8",
+  },
+  "resolve-alpn": Set {
+    "1.2.1",
+  },
+  "resolve-cwd": Set {
+    "3.0.0",
+  },
+  "resolve-from": Set {
+    "4.0.0",
+    "5.0.0",
+  },
+  "resolve-pkg-maps": Set {
+    "1.0.0",
+  },
+  "responselike": Set {
+    "3.0.0",
+  },
+  "restore-cursor": Set {
+    "4.0.0",
+    "3.1.0",
+  },
+  "retry": Set {
+    "0.13.1",
+  },
+  "reusify": Set {
+    "1.0.4",
+  },
+  "rimraf": Set {
+    "3.0.2",
+  },
+  "run-applescript": Set {
+    "7.0.0",
+  },
+  "run-async": Set {
+    "3.0.0",
+  },
+  "run-parallel": Set {
+    "1.2.0",
+  },
+  "rxjs": Set {
+    "7.8.1",
+  },
+  "safe-buffer": Set {
+    "5.2.1",
+  },
+  "safer-buffer": Set {
+    "2.1.2",
+  },
+  "semver": Set {
+    "6.3.1",
+    "7.6.2",
+  },
+  "semver-diff": Set {
+    "4.0.0",
+  },
+  "serialize-error": Set {
+    "7.0.1",
+  },
+  "set-blocking": Set {
+    "2.0.0",
+  },
+  "shebang-command": Set {
+    "2.0.0",
+  },
+  "shebang-regex": Set {
+    "3.0.0",
+  },
+  "shelljs": Set {
+    "0.8.5",
+  },
+  "signal-exit": Set {
+    "3.0.7",
+    "4.1.0",
+  },
+  "sinon": Set {
+    "18.0.0",
+  },
+  "slash": Set {
+    "3.0.0",
+    "5.1.0",
+  },
+  "slice-ansi": Set {
+    "5.0.0",
+  },
+  "smart-buffer": Set {
+    "4.2.0",
+  },
+  "smol-toml": Set {
+    "1.1.4",
+  },
+  "socks": Set {
+    "2.8.3",
+  },
+  "socks-proxy-agent": Set {
+    "8.0.2",
+  },
+  "source-map": Set {
+    "0.6.1",
+  },
+  "space-separated-tokens": Set {
+    "2.0.2",
+  },
+  "spdx-correct": Set {
+    "3.2.0",
+  },
+  "spdx-exceptions": Set {
+    "2.3.0",
+  },
+  "spdx-expression-parse": Set {
+    "3.0.1",
+  },
+  "spdx-license-ids": Set {
+    "3.0.16",
+  },
+  "sprintf-js": Set {
+    "1.1.3",
+    "1.0.3",
+  },
+  "stable-hash": Set {
+    "0.0.4",
+  },
+  "stack-utils": Set {
+    "2.0.6",
+  },
+  "stdin-discarder": Set {
+    "0.2.2",
+  },
+  "string-width": Set {
+    "4.2.3",
+    "7.1.0",
+    "5.1.2",
+    "6.1.0",
+  },
+  "string-width-cjs": Set {
+    "4.2.3",
+  },
+  "string_decoder": Set {
+    "1.3.0",
+  },
+  "stringify-entities": Set {
+    "4.0.4",
+  },
+  "strip-ansi": Set {
+    "6.0.1",
+    "7.1.0",
+  },
+  "strip-ansi-cjs": Set {
+    "6.0.1",
+  },
+  "strip-bom": Set {
+    "4.0.0",
+  },
+  "strip-final-newline": Set {
+    "3.0.0",
+    "2.0.0",
+  },
+  "strip-json-comments": Set {
+    "5.0.1",
+    "2.0.1",
+    "3.1.1",
+  },
+  "summary": Set {
+    "2.1.0",
+  },
+  "supertap": Set {
+    "3.0.1",
+  },
+  "supports-color": Set {
+    "5.5.0",
+    "7.2.0",
+    "9.4.0",
+  },
+  "supports-preserve-symlinks-flag": Set {
+    "1.0.0",
+  },
+  "synckit": Set {
+    "0.8.8",
+  },
+  "tar": Set {
+    "6.2.1",
+  },
+  "temp-dir": Set {
+    "3.0.0",
+  },
+  "text-table": Set {
+    "0.2.0",
+  },
+  "thingies": Set {
+    "1.21.0",
+  },
+  "time-zone": Set {
+    "1.0.0",
+  },
+  "tmp": Set {
+    "0.0.33",
+  },
+  "to-regex-range": Set {
+    "5.0.1",
+  },
+  "tr46": Set {
+    "0.0.3",
+  },
+  "tree-dump": Set {
+    "1.0.1",
+  },
+  "trough": Set {
+    "2.1.0",
+  },
+  "ts-api-utils": Set {
+    "1.3.0",
+  },
+  "tslib": Set {
+    "2.6.2",
+  },
+  "type-check": Set {
+    "0.4.0",
+  },
+  "type-detect": Set {
+    "4.0.8",
+  },
+  "type-fest": Set {
+    "0.21.3",
+    "2.19.0",
+    "1.4.0",
+    "4.15.0",
+    "0.13.1",
+    "3.13.1",
+  },
+  "typedarray": Set {
+    "0.0.6",
+  },
+  "typedarray-to-buffer": Set {
+    "3.1.5",
+  },
+  "typescript": Set {
+    "5.5.3",
+  },
+  "undici-types": Set {
+    "5.26.5",
+  },
+  "unicorn-magic": Set {
+    "0.1.0",
+  },
+  "unified": Set {
+    "11.0.4",
+  },
+  "unified-args": Set {
+    "11.0.1",
+  },
+  "unified-engine": Set {
+    "11.2.0",
+  },
+  "unified-prettier": Set {
+    "2.0.1",
+  },
+  "unique-string": Set {
+    "3.0.0",
+  },
+  "unist-util-inspect": Set {
+    "8.0.0",
+  },
+  "unist-util-is": Set {
+    "5.2.1",
+    "6.0.0",
+  },
+  "unist-util-position-from-estree": Set {
+    "2.0.0",
+  },
+  "unist-util-remove": Set {
+    "3.1.1",
+    "4.0.0",
+  },
+  "unist-util-remove-position": Set {
+    "5.0.0",
+  },
+  "unist-util-stringify-position": Set {
+    "4.0.0",
+  },
+  "unist-util-visit": Set {
+    "4.1.2",
+    "5.0.0",
+  },
+  "unist-util-visit-parents": Set {
+    "5.1.3",
+    "6.0.1",
+  },
+  "universal-user-agent": Set {
+    "6.0.1",
+  },
+  "universalify": Set {
+    "0.1.2",
+  },
+  "update-notifier": Set {
+    "7.1.0",
+  },
+  "uri-js": Set {
+    "4.4.1",
+  },
+  "url-join": Set {
+    "5.0.0",
+  },
+  "util-deprecate": Set {
+    "1.0.2",
+  },
+  "validate-npm-package-license": Set {
+    "3.0.4",
+  },
+  "version-guard": Set {
+    "1.1.2",
+  },
+  "vfile": Set {
+    "6.0.1",
+  },
+  "vfile-message": Set {
+    "4.0.2",
+  },
+  "vfile-reporter": Set {
+    "8.1.0",
+  },
+  "vfile-sort": Set {
+    "4.0.0",
+  },
+  "vfile-statistics": Set {
+    "3.0.0",
+  },
+  "walk-up-path": Set {
+    "3.0.1",
+  },
+  "wcwidth": Set {
+    "1.0.1",
+  },
+  "web-streams-polyfill": Set {
+    "3.3.2",
+  },
+  "webidl-conversions": Set {
+    "3.0.1",
+  },
+  "well-known-symbols": Set {
+    "2.0.0",
+  },
+  "whatwg-url": Set {
+    "5.0.0",
+  },
+  "which": Set {
+    "2.0.2",
+  },
+  "wide-align": Set {
+    "1.1.5",
+  },
+  "widest-line": Set {
+    "4.0.1",
+  },
+  "wildcard-match": Set {
+    "5.1.3",
+  },
+  "windows-release": Set {
+    "5.1.1",
+  },
+  "wrap-ansi": Set {
+    "8.1.0",
+    "7.0.0",
+    "6.2.0",
+  },
+  "wrap-ansi-cjs": Set {
+    "7.0.0",
+  },
+  "wrappy": Set {
+    "1.0.2",
+  },
+  "write-file-atomic": Set {
+    "3.0.3",
+    "5.0.1",
+  },
+  "xdg-basedir": Set {
+    "5.1.0",
+  },
+  "y18n": Set {
+    "5.0.8",
+  },
+  "yallist": Set {
+    "4.0.0",
+  },
+  "yaml": Set {
+    "2.3.4",
+  },
+  "yargs": Set {
+    "17.7.2",
+  },
+  "yargs-parser": Set {
+    "21.1.1",
+  },
+  "yocto-queue": Set {
+    "0.1.0",
+  },
+  "yoctocolors-cjs": Set {
+    "2.1.1",
+  },
+  "zod": Set {
+    "3.22.4",
+  },
+  "zod-validation-error": Set {
+    "3.1.0",
+  },
+  "zwitch": Set {
+    "2.0.4",
+  },
+}
+`;
+
+exports[`get version for fixtures > ./fixtures/pnpm-5-4.yaml 1`] = `
+{
+  "@ampproject/remapping": Set {
+    "2.2.0",
+  },
+  "@antfu/eslint-config": Set {
+    "0.25.2",
+  },
+  "@antfu/eslint-config-basic": Set {
+    "0.25.2",
+  },
+  "@antfu/eslint-config-react": Set {
+    "0.25.2",
+  },
+  "@antfu/eslint-config-ts": Set {
+    "0.25.2",
+  },
+  "@antfu/eslint-config-vue": Set {
+    "0.25.2",
+  },
+  "@antfu/p": Set {
+    "0.1.0",
+  },
+  "@babel/code-frame": Set {
+    "7.18.6",
+  },
+  "@babel/compat-data": Set {
+    "7.18.8",
+  },
+  "@babel/core": Set {
+    "7.18.13",
+  },
+  "@babel/generator": Set {
+    "7.18.10",
+    "7.18.13",
+  },
+  "@babel/helper-annotate-as-pure": Set {
+    "7.18.6",
+  },
+  "@babel/helper-compilation-targets": Set {
+    "7.18.9",
+  },
+  "@babel/helper-create-class-features-plugin": Set {
+    "7.18.9",
+  },
+  "@babel/helper-environment-visitor": Set {
+    "7.18.9",
+  },
+  "@babel/helper-function-name": Set {
+    "7.18.9",
+  },
+  "@babel/helper-hoist-variables": Set {
+    "7.18.6",
+  },
+  "@babel/helper-member-expression-to-functions": Set {
+    "7.18.9",
+  },
+  "@babel/helper-module-imports": Set {
+    "7.18.6",
+  },
+  "@babel/helper-module-transforms": Set {
+    "7.18.9",
+  },
+  "@babel/helper-optimise-call-expression": Set {
+    "7.18.6",
+  },
+  "@babel/helper-plugin-utils": Set {
+    "7.18.9",
+  },
+  "@babel/helper-replace-supers": Set {
+    "7.18.9",
+  },
+  "@babel/helper-simple-access": Set {
+    "7.18.6",
+  },
+  "@babel/helper-split-export-declaration": Set {
+    "7.18.6",
+  },
+  "@babel/helper-string-parser": Set {
+    "7.18.10",
+  },
+  "@babel/helper-validator-identifier": Set {
+    "7.18.6",
+  },
+  "@babel/helper-validator-option": Set {
+    "7.18.6",
+  },
+  "@babel/helpers": Set {
+    "7.18.9",
+  },
+  "@babel/highlight": Set {
+    "7.18.6",
+  },
+  "@babel/parser": Set {
+    "7.18.10",
+    "7.18.13",
+  },
+  "@babel/plugin-syntax-import-meta": Set {
+    "7.10.4",
+  },
+  "@babel/plugin-syntax-jsx": Set {
+    "7.18.6",
+  },
+  "@babel/plugin-syntax-typescript": Set {
+    "7.18.6",
+  },
+  "@babel/plugin-transform-typescript": Set {
+    "7.18.10",
+  },
+  "@babel/standalone": Set {
+    "7.18.10",
+  },
+  "@babel/template": Set {
+    "7.18.10",
+  },
+  "@babel/traverse": Set {
+    "7.18.10",
+    "7.18.13",
+  },
+  "@babel/types": Set {
+    "7.18.10",
+    "7.18.13",
+  },
+  "@esbuild/linux-loong64": Set {
+    "0.15.1",
+  },
+  "@eslint/eslintrc": Set {
+    "1.3.0",
+  },
+  "@faker-js/faker": Set {
+    "7.4.0",
+  },
+  "@humanwhocodes/config-array": Set {
+    "0.10.4",
+  },
+  "@humanwhocodes/gitignore-to-minimatch": Set {
+    "1.0.2",
+  },
+  "@humanwhocodes/object-schema": Set {
+    "1.2.1",
+  },
+  "@jridgewell/gen-mapping": Set {
+    "0.1.1",
+    "0.3.2",
+  },
+  "@jridgewell/resolve-uri": Set {
+    "3.1.0",
+  },
+  "@jridgewell/set-array": Set {
+    "1.1.2",
+  },
+  "@jridgewell/sourcemap-codec": Set {
+    "1.4.14",
+  },
+  "@jridgewell/trace-mapping": Set {
+    "0.3.14",
+  },
+  "@nodelib/fs.scandir": Set {
+    "2.1.5",
+  },
+  "@nodelib/fs.stat": Set {
+    "2.0.5",
+  },
+  "@nodelib/fs.walk": Set {
+    "1.2.8",
+  },
+  "@rollup/plugin-alias": Set {
+    "3.1.9",
+  },
+  "@rollup/plugin-commonjs": Set {
+    "22.0.1",
+  },
+  "@rollup/plugin-json": Set {
+    "4.1.0",
+  },
+  "@rollup/plugin-node-resolve": Set {
+    "13.3.0",
+  },
+  "@rollup/plugin-replace": Set {
+    "4.0.0",
+  },
+  "@rollup/pluginutils": Set {
+    "3.1.0",
+    "4.2.1",
+  },
+  "@sinonjs/commons": Set {
+    "1.8.3",
+  },
+  "@sinonjs/fake-timers": Set {
+    "9.1.2",
+  },
+  "@sinonjs/samsam": Set {
+    "6.1.1",
+  },
+  "@sinonjs/text-encoding": Set {
+    "0.7.2",
+  },
+  "@types/chai": Set {
+    "4.3.1",
+  },
+  "@types/chai-subset": Set {
+    "1.3.3",
+  },
+  "@types/estree": Set {
+    "0.0.39",
+    "1.0.0",
+  },
+  "@types/is-ci": Set {
+    "3.0.0",
+  },
+  "@types/json-schema": Set {
+    "7.0.11",
+  },
+  "@types/json5": Set {
+    "0.0.29",
+  },
+  "@types/lodash": Set {
+    "4.14.182",
+  },
+  "@types/mdast": Set {
+    "3.0.10",
+  },
+  "@types/node": Set {
+    "18.6.3",
+  },
+  "@types/normalize-package-data": Set {
+    "2.4.1",
+  },
+  "@types/resolve": Set {
+    "1.17.1",
+  },
+  "@types/signal-exit": Set {
+    "3.0.1",
+  },
+  "@types/terminal-link": Set {
+    "1.2.0",
+  },
+  "@types/unist": Set {
+    "2.0.6",
+  },
+  "@types/yoga-layout": Set {
+    "1.9.2",
+  },
+  "@typescript-eslint/eslint-plugin": Set {
+    "5.32.0",
+  },
+  "@typescript-eslint/parser": Set {
+    "5.32.0",
+  },
+  "@typescript-eslint/scope-manager": Set {
+    "5.32.0",
+  },
+  "@typescript-eslint/type-utils": Set {
+    "5.32.0",
+  },
+  "@typescript-eslint/types": Set {
+    "5.32.0",
+  },
+  "@typescript-eslint/typescript-estree": Set {
+    "5.32.0",
+  },
+  "@typescript-eslint/utils": Set {
+    "5.32.0",
+  },
+  "@typescript-eslint/visitor-keys": Set {
+    "5.32.0",
+  },
+  "@vitejs/plugin-vue": Set {
+    "3.0.1",
+  },
+  "@vitejs/plugin-vue-jsx": Set {
+    "2.0.0",
+  },
+  "@vue/babel-helper-vue-transform-on": Set {
+    "1.0.2",
+  },
+  "@vue/babel-plugin-jsx": Set {
+    "1.1.1",
+  },
+  "@vue/compiler-core": Set {
+    "3.2.37",
+  },
+  "@vue/compiler-dom": Set {
+    "3.2.37",
+  },
+  "@vue/compiler-sfc": Set {
+    "3.2.37",
+  },
+  "@vue/compiler-ssr": Set {
+    "3.2.37",
+  },
+  "@vue/reactivity": Set {
+    "3.2.37",
+  },
+  "@vue/reactivity-transform": Set {
+    "3.2.37",
+  },
+  "@vue/runtime-core": Set {
+    "3.2.37",
+  },
+  "@vue/runtime-dom": Set {
+    "3.2.37",
+  },
+  "@vue/server-renderer": Set {
+    "3.2.37",
+  },
+  "@vue/shared": Set {
+    "3.2.37",
+  },
+  "acorn": Set {
+    "8.8.0",
+  },
+  "acorn-jsx": Set {
+    "5.3.2",
+  },
+  "ajv": Set {
+    "6.12.6",
+  },
+  "ansi-align": Set {
+    "3.0.1",
+  },
+  "ansi-escapes": Set {
+    "4.3.2",
+  },
+  "ansi-regex": Set {
+    "5.0.1",
+    "6.0.1",
+  },
+  "ansi-styles": Set {
+    "3.2.1",
+    "4.3.0",
+    "5.2.0",
+    "6.1.0",
+  },
+  "any-promise": Set {
+    "1.3.0",
+  },
+  "anymatch": Set {
+    "3.1.2",
+  },
+  "argparse": Set {
+    "2.0.1",
+  },
+  "arr-rotate": Set {
+    "1.0.0",
+  },
+  "array-includes": Set {
+    "3.1.5",
+  },
+  "array-union": Set {
+    "2.1.0",
+  },
+  "array.prototype.flat": Set {
+    "1.3.0",
+  },
+  "array.prototype.flatmap": Set {
+    "1.3.0",
+  },
+  "assertion-error": Set {
+    "1.1.0",
+  },
+  "astral-regex": Set {
+    "2.0.0",
+  },
+  "auto-bind": Set {
+    "4.0.0",
+  },
+  "balanced-match": Set {
+    "1.0.2",
+  },
+  "binary-extensions": Set {
+    "2.2.0",
+  },
+  "boolbase": Set {
+    "1.0.0",
+  },
+  "boxen": Set {
+    "7.0.0",
+  },
+  "brace-expansion": Set {
+    "1.1.11",
+  },
+  "braces": Set {
+    "3.0.2",
+  },
+  "browserslist": Set {
+    "4.21.3",
+  },
+  "builtin-modules": Set {
+    "3.3.0",
+  },
+  "builtins": Set {
+    "5.0.1",
+  },
+  "bundle-require": Set {
+    "3.0.4",
+  },
+  "cac": Set {
+    "6.7.12",
+  },
+  "call-bind": Set {
+    "1.0.2",
+  },
+  "callsites": Set {
+    "3.1.0",
+  },
+  "camelcase": Set {
+    "6.3.0",
+    "7.0.0",
+  },
+  "caniuse-lite": Set {
+    "1.0.30001373",
+  },
+  "chai": Set {
+    "4.3.6",
+  },
+  "chalk": Set {
+    "2.4.2",
+    "4.1.2",
+    "5.0.1",
+  },
+  "character-entities": Set {
+    "1.2.4",
+  },
+  "character-entities-legacy": Set {
+    "1.1.4",
+  },
+  "character-reference-invalid": Set {
+    "1.1.4",
+  },
+  "check-error": Set {
+    "1.0.2",
+  },
+  "chokidar": Set {
+    "3.5.3",
+  },
+  "ci-info": Set {
+    "3.3.2",
+  },
+  "clean-regexp": Set {
+    "1.0.0",
+  },
+  "cli-boxes": Set {
+    "2.2.1",
+    "3.0.0",
+  },
+  "cli-cursor": Set {
+    "3.1.0",
+  },
+  "cli-spinners": Set {
+    "2.7.0",
+  },
+  "cli-truncate": Set {
+    "2.1.0",
+  },
+  "color-convert": Set {
+    "1.9.3",
+    "2.0.1",
+  },
+  "color-name": Set {
+    "1.1.3",
+    "1.1.4",
+  },
+  "commander": Set {
+    "4.1.1",
+  },
+  "commondir": Set {
+    "1.0.1",
+  },
+  "concat-map": Set {
+    "0.0.1",
+  },
+  "consola": Set {
+    "2.15.3",
+  },
+  "convert-source-map": Set {
+    "1.8.0",
+  },
+  "cross-spawn": Set {
+    "7.0.3",
+  },
+  "cssesc": Set {
+    "3.0.0",
+  },
+  "csstype": Set {
+    "2.6.20",
+  },
+  "debug": Set {
+    "2.6.9",
+    "3.2.7",
+    "4.3.4",
+  },
+  "deep-eql": Set {
+    "3.0.1",
+  },
+  "deep-is": Set {
+    "0.1.4",
+  },
+  "deepmerge": Set {
+    "4.2.2",
+  },
+  "define-properties": Set {
+    "1.1.4",
+  },
+  "defu": Set {
+    "6.0.0",
+  },
+  "delay": Set {
+    "5.0.0",
+  },
+  "diff": Set {
+    "5.1.0",
+  },
+  "dir-glob": Set {
+    "3.0.1",
+  },
+  "doctrine": Set {
+    "2.1.0",
+    "3.0.0",
+  },
+  "dom-serializer": Set {
+    "1.4.1",
+  },
+  "domelementtype": Set {
+    "2.3.0",
+  },
+  "domhandler": Set {
+    "4.3.1",
+  },
+  "domutils": Set {
+    "2.8.0",
+  },
+  "eastasianwidth": Set {
+    "0.2.0",
+  },
+  "electron-to-chromium": Set {
+    "1.4.208",
+  },
+  "emoji-regex": Set {
+    "8.0.0",
+    "9.2.2",
+  },
+  "entities": Set {
+    "2.2.0",
+    "3.0.1",
+  },
+  "error-ex": Set {
+    "1.3.2",
+  },
+  "es-abstract": Set {
+    "1.20.1",
+  },
+  "es-module-lexer": Set {
+    "0.9.3",
+  },
+  "es-shim-unscopables": Set {
+    "1.0.0",
+  },
+  "es-to-primitive": Set {
+    "1.2.1",
+  },
+  "esbuild": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-android-64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-android-arm64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-darwin-64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-darwin-arm64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-freebsd-64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-freebsd-arm64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-linux-32": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-linux-64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-linux-arm": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-linux-arm64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-linux-mips64le": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-linux-ppc64le": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-linux-riscv64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-linux-s390x": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-netbsd-64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-openbsd-64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-sunos-64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-windows-32": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-windows-64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "esbuild-windows-arm64": Set {
+    "0.14.51",
+    "0.15.1",
+  },
+  "escalade": Set {
+    "3.1.1",
+  },
+  "escape-string-regexp": Set {
+    "1.0.5",
+    "4.0.0",
+  },
+  "eslint": Set {
+    "8.21.0",
+  },
+  "eslint-import-resolver-node": Set {
+    "0.3.6",
+  },
+  "eslint-module-utils": Set {
+    "2.7.3",
+  },
+  "eslint-plugin-antfu": Set {
+    "0.25.2",
+  },
+  "eslint-plugin-es": Set {
+    "4.1.0",
+  },
+  "eslint-plugin-eslint-comments": Set {
+    "3.2.0",
+  },
+  "eslint-plugin-html": Set {
+    "6.2.0",
+  },
+  "eslint-plugin-import": Set {
+    "2.26.0",
+  },
+  "eslint-plugin-jsonc": Set {
+    "2.3.1",
+  },
+  "eslint-plugin-markdown": Set {
+    "2.2.1",
+  },
+  "eslint-plugin-n": Set {
+    "15.2.4",
+  },
+  "eslint-plugin-promise": Set {
+    "6.0.0",
+  },
+  "eslint-plugin-react": Set {
+    "7.30.1",
+  },
+  "eslint-plugin-unicorn": Set {
+    "42.0.0",
+  },
+  "eslint-plugin-vue": Set {
+    "9.3.0",
+  },
+  "eslint-plugin-yml": Set {
+    "1.1.0",
+  },
+  "eslint-scope": Set {
+    "5.1.1",
+    "7.1.1",
+  },
+  "eslint-utils": Set {
+    "2.1.0",
+    "3.0.0",
+  },
+  "eslint-visitor-keys": Set {
+    "1.3.0",
+    "2.1.0",
+    "3.3.0",
+  },
+  "espree": Set {
+    "9.3.3",
+  },
+  "esquery": Set {
+    "1.4.0",
+  },
+  "esrecurse": Set {
+    "4.3.0",
+  },
+  "estraverse": Set {
+    "4.3.0",
+    "5.3.0",
+  },
+  "estree-walker": Set {
+    "1.0.1",
+    "2.0.2",
+  },
+  "esutils": Set {
+    "2.0.3",
+  },
+  "execa": Set {
+    "5.1.1",
+  },
+  "fast-deep-equal": Set {
+    "3.1.3",
+  },
+  "fast-glob": Set {
+    "3.2.11",
+  },
+  "fast-json-stable-stringify": Set {
+    "2.1.0",
+  },
+  "fast-levenshtein": Set {
+    "2.0.6",
+  },
+  "fastq": Set {
+    "1.13.0",
+  },
+  "figures": Set {
+    "3.2.0",
+  },
+  "file-entry-cache": Set {
+    "6.0.1",
+  },
+  "fill-range": Set {
+    "7.0.1",
+  },
+  "find-up": Set {
+    "2.1.0",
+    "4.1.0",
+    "5.0.0",
+  },
+  "flat-cache": Set {
+    "3.0.4",
+  },
+  "flatted": Set {
+    "3.2.6",
+  },
+  "fs-extra": Set {
+    "10.1.0",
+  },
+  "fs.realpath": Set {
+    "1.0.0",
+  },
+  "fsevents": Set {
+    "2.3.2",
+  },
+  "function-bind": Set {
+    "1.1.1",
+  },
+  "function.prototype.name": Set {
+    "1.1.5",
+  },
+  "functional-red-black-tree": Set {
+    "1.0.1",
+  },
+  "functions-have-names": Set {
+    "1.2.3",
+  },
+  "gensync": Set {
+    "1.0.0-beta.2",
+  },
+  "get-func-name": Set {
+    "2.0.0",
+  },
+  "get-intrinsic": Set {
+    "1.1.2",
+  },
+  "get-stream": Set {
+    "6.0.1",
+  },
+  "get-symbol-description": Set {
+    "1.0.0",
+  },
+  "glob": Set {
+    "7.1.6",
+    "7.2.3",
+  },
+  "glob-parent": Set {
+    "5.1.2",
+    "6.0.2",
+  },
+  "globals": Set {
+    "11.12.0",
+    "13.17.0",
+  },
+  "globby": Set {
+    "11.1.0",
+  },
+  "graceful-fs": Set {
+    "4.2.10",
+  },
+  "grapheme-splitter": Set {
+    "1.0.4",
+  },
+  "has": Set {
+    "1.0.3",
+  },
+  "has-bigints": Set {
+    "1.0.2",
+  },
+  "has-flag": Set {
+    "3.0.0",
+    "4.0.0",
+  },
+  "has-property-descriptors": Set {
+    "1.0.0",
+  },
+  "has-symbols": Set {
+    "1.0.3",
+  },
+  "has-tostringtag": Set {
+    "1.0.0",
+  },
+  "hash-sum": Set {
+    "2.0.0",
+  },
+  "hookable": Set {
+    "5.1.1",
+  },
+  "hosted-git-info": Set {
+    "2.8.9",
+  },
+  "html-tags": Set {
+    "3.2.0",
+  },
+  "htmlparser2": Set {
+    "7.2.0",
+  },
+  "human-signals": Set {
+    "2.1.0",
+  },
+  "ignore": Set {
+    "5.2.0",
+  },
+  "import-fresh": Set {
+    "3.3.0",
+  },
+  "imurmurhash": Set {
+    "0.1.4",
+  },
+  "indent-string": Set {
+    "4.0.0",
+  },
+  "inflight": Set {
+    "1.0.6",
+  },
+  "inherits": Set {
+    "2.0.4",
+  },
+  "internal-slot": Set {
+    "1.0.3",
+  },
+  "is-alphabetical": Set {
+    "1.0.4",
+  },
+  "is-alphanumerical": Set {
+    "1.0.4",
+  },
+  "is-arrayish": Set {
+    "0.2.1",
+  },
+  "is-bigint": Set {
+    "1.0.4",
+  },
+  "is-binary-path": Set {
+    "2.1.0",
+  },
+  "is-boolean-object": Set {
+    "1.1.2",
+  },
+  "is-builtin-module": Set {
+    "3.2.0",
+  },
+  "is-callable": Set {
+    "1.2.4",
+  },
+  "is-ci": Set {
+    "3.0.1",
+  },
+  "is-core-module": Set {
+    "2.9.0",
+  },
+  "is-date-object": Set {
+    "1.0.5",
+  },
+  "is-decimal": Set {
+    "1.0.4",
+  },
+  "is-extglob": Set {
+    "2.1.1",
+  },
+  "is-fullwidth-code-point": Set {
+    "3.0.0",
+  },
+  "is-glob": Set {
+    "4.0.3",
+  },
+  "is-hexadecimal": Set {
+    "1.0.4",
+  },
+  "is-module": Set {
+    "1.0.0",
+  },
+  "is-negative-zero": Set {
+    "2.0.2",
+  },
+  "is-number": Set {
+    "7.0.0",
+  },
+  "is-number-object": Set {
+    "1.0.7",
+  },
+  "is-reference": Set {
+    "1.2.1",
+  },
+  "is-regex": Set {
+    "1.1.4",
+  },
+  "is-shared-array-buffer": Set {
+    "1.0.2",
+  },
+  "is-stream": Set {
+    "2.0.1",
+  },
+  "is-string": Set {
+    "1.0.7",
+  },
+  "is-symbol": Set {
+    "1.0.4",
+  },
+  "is-weakref": Set {
+    "1.0.2",
+  },
+  "isarray": Set {
+    "0.0.1",
+  },
+  "isexe": Set {
+    "2.0.0",
+  },
+  "jiti": Set {
+    "1.14.0",
+  },
+  "joycon": Set {
+    "3.1.1",
+  },
+  "js-tokens": Set {
+    "4.0.0",
+  },
+  "js-yaml": Set {
+    "4.1.0",
+  },
+  "jsesc": Set {
+    "2.5.2",
+  },
+  "json-parse-even-better-errors": Set {
+    "2.3.1",
+  },
+  "json-schema-traverse": Set {
+    "0.4.1",
+  },
+  "json-stable-stringify-without-jsonify": Set {
+    "1.0.1",
+  },
+  "json5": Set {
+    "1.0.1",
+    "2.2.1",
+  },
+  "jsonc-eslint-parser": Set {
+    "2.1.0",
+  },
+  "jsonc-parser": Set {
+    "3.1.0",
+  },
+  "jsonfile": Set {
+    "6.1.0",
+  },
+  "jsx-ast-utils": Set {
+    "3.3.2",
+  },
+  "just-extend": Set {
+    "4.2.1",
+  },
+  "kolorist": Set {
+    "1.5.1",
+  },
+  "levn": Set {
+    "0.4.1",
+  },
+  "lilconfig": Set {
+    "2.0.6",
+  },
+  "lines-and-columns": Set {
+    "1.2.4",
+  },
+  "load-tsconfig": Set {
+    "0.2.3",
+  },
+  "local-pkg": Set {
+    "0.4.2",
+  },
+  "locate-path": Set {
+    "2.0.0",
+    "5.0.0",
+    "6.0.0",
+  },
+  "lodash": Set {
+    "4.17.21",
+  },
+  "lodash-es": Set {
+    "4.17.21",
+  },
+  "lodash.get": Set {
+    "4.4.2",
+  },
+  "lodash.merge": Set {
+    "4.6.2",
+  },
+  "lodash.sortby": Set {
+    "4.7.0",
+  },
+  "loose-envify": Set {
+    "1.4.0",
+  },
+  "loupe": Set {
+    "2.3.4",
+  },
+  "lru-cache": Set {
+    "6.0.0",
+  },
+  "magic-string": Set {
+    "0.25.9",
+    "0.26.2",
+  },
+  "mdast-util-from-markdown": Set {
+    "0.8.5",
+  },
+  "mdast-util-to-string": Set {
+    "2.0.0",
+  },
+  "merge-stream": Set {
+    "2.0.0",
+  },
+  "merge2": Set {
+    "1.4.1",
+  },
+  "micromark": Set {
+    "2.11.4",
+  },
+  "micromatch": Set {
+    "4.0.5",
+  },
+  "mimic-fn": Set {
+    "2.1.0",
+  },
+  "min-indent": Set {
+    "1.0.1",
+  },
+  "minimatch": Set {
+    "3.1.2",
+  },
+  "minimist": Set {
+    "1.2.6",
+  },
+  "mkdirp": Set {
+    "1.0.4",
+  },
+  "mkdist": Set {
+    "0.3.13",
+  },
+  "mlly": Set {
+    "0.5.5",
+    "0.5.9",
+  },
+  "mri": Set {
+    "1.2.0",
+  },
+  "ms": Set {
+    "2.0.0",
+    "2.1.2",
+    "2.1.3",
+  },
+  "mz": Set {
+    "2.7.0",
+  },
+  "nanoid": Set {
+    "3.3.4",
+  },
+  "natural-compare": Set {
+    "1.4.0",
+  },
+  "nise": Set {
+    "5.1.1",
+  },
+  "node-releases": Set {
+    "2.0.6",
+  },
+  "normalize-package-data": Set {
+    "2.5.0",
+  },
+  "normalize-path": Set {
+    "3.0.0",
+  },
+  "npm-run-path": Set {
+    "4.0.1",
+  },
+  "nth-check": Set {
+    "2.1.1",
+  },
+  "object-assign": Set {
+    "4.1.1",
+  },
+  "object-diff-patch": Set {
+    "0.1.2",
+  },
+  "object-inspect": Set {
+    "1.12.2",
+  },
+  "object-keys": Set {
+    "1.1.1",
+  },
+  "object.assign": Set {
+    "4.1.2",
+  },
+  "object.entries": Set {
+    "1.1.5",
+  },
+  "object.fromentries": Set {
+    "2.0.5",
+  },
+  "object.hasown": Set {
+    "1.1.1",
+  },
+  "object.values": Set {
+    "1.1.5",
+  },
+  "once": Set {
+    "1.4.0",
+  },
+  "onetime": Set {
+    "5.1.2",
+  },
+  "optionator": Set {
+    "0.9.1",
+  },
+  "p-limit": Set {
+    "1.3.0",
+    "2.3.0",
+    "3.1.0",
+  },
+  "p-locate": Set {
+    "2.0.0",
+    "4.1.0",
+    "5.0.0",
+  },
+  "p-try": Set {
+    "1.0.0",
+    "2.2.0",
+  },
+  "parent-module": Set {
+    "1.0.1",
+  },
+  "parse-entities": Set {
+    "2.0.0",
+  },
+  "parse-json": Set {
+    "5.2.0",
+  },
+  "patch-console": Set {
+    "1.0.0",
+  },
+  "path-exists": Set {
+    "3.0.0",
+    "4.0.0",
+  },
+  "path-is-absolute": Set {
+    "1.0.1",
+  },
+  "path-key": Set {
+    "3.1.1",
+  },
+  "path-parse": Set {
+    "1.0.7",
+  },
+  "path-to-regexp": Set {
+    "1.8.0",
+  },
+  "path-type": Set {
+    "4.0.0",
+  },
+  "pathe": Set {
+    "0.2.0",
+    "0.3.3",
+  },
+  "pathval": Set {
+    "1.1.1",
+  },
+  "picocolors": Set {
+    "1.0.0",
+  },
+  "picomatch": Set {
+    "2.3.1",
+  },
+  "pirates": Set {
+    "4.0.5",
+  },
+  "pkg-types": Set {
+    "0.3.3",
+  },
+  "pluralize": Set {
+    "8.0.0",
+  },
+  "postcss": Set {
+    "8.4.14",
+    "8.4.16",
+  },
+  "postcss-load-config": Set {
+    "3.1.4",
+  },
+  "postcss-selector-parser": Set {
+    "6.0.10",
+  },
+  "prelude-ls": Set {
+    "1.2.1",
+  },
+  "pretty-bytes": Set {
+    "6.0.0",
+  },
+  "prop-types": Set {
+    "15.8.1",
+  },
+  "punycode": Set {
+    "2.1.1",
+  },
+  "queue-microtask": Set {
+    "1.2.3",
+  },
+  "react-is": Set {
+    "16.13.1",
+  },
+  "read-pkg": Set {
+    "5.2.0",
+  },
+  "read-pkg-up": Set {
+    "7.0.1",
+  },
+  "readdirp": Set {
+    "3.6.0",
+  },
+  "readline": Set {
+    "1.3.0",
+  },
+  "regexp-tree": Set {
+    "0.1.24",
+  },
+  "regexp.prototype.flags": Set {
+    "1.4.3",
+  },
+  "regexpp": Set {
+    "3.2.0",
+  },
+  "resolve": Set {
+    "1.22.1",
+    "2.0.0-next.4",
+  },
+  "resolve-from": Set {
+    "4.0.0",
+    "5.0.0",
+  },
+  "restore-cursor": Set {
+    "3.1.0",
+  },
+  "reusify": Set {
+    "1.0.4",
+  },
+  "rimraf": Set {
+    "3.0.2",
+  },
+  "rollup": Set {
+    "2.77.2",
+  },
+  "rollup-plugin-dts": Set {
+    "4.2.2",
+  },
+  "rollup-plugin-esbuild": Set {
+    "4.9.1",
+  },
+  "run-parallel": Set {
+    "1.2.0",
+  },
+  "safe-buffer": Set {
+    "5.1.2",
+  },
+  "safe-regex": Set {
+    "2.1.1",
+  },
+  "scule": Set {
+    "0.2.1",
+  },
+  "semver": Set {
+    "5.7.1",
+    "6.3.0",
+    "7.3.7",
+  },
+  "shebang-command": Set {
+    "2.0.0",
+  },
+  "shebang-regex": Set {
+    "3.0.0",
+  },
+  "side-channel": Set {
+    "1.0.4",
+  },
+  "signal-exit": Set {
+    "3.0.7",
+  },
+  "sinon": Set {
+    "14.0.0",
+  },
+  "slash": Set {
+    "3.0.0",
+  },
+  "slice-ansi": Set {
+    "3.0.0",
+    "4.0.0",
+  },
+  "source-map": Set {
+    "0.6.1",
+    "0.8.0-beta.0",
+  },
+  "source-map-js": Set {
+    "1.0.2",
+  },
+  "sourcemap-codec": Set {
+    "1.4.8",
+  },
+  "spdx-correct": Set {
+    "3.1.1",
+  },
+  "spdx-exceptions": Set {
+    "2.3.0",
+  },
+  "spdx-expression-parse": Set {
+    "3.0.1",
+  },
+  "spdx-license-ids": Set {
+    "3.0.11",
+  },
+  "string-width": Set {
+    "4.2.3",
+    "5.1.2",
+  },
+  "string.prototype.matchall": Set {
+    "4.0.7",
+  },
+  "string.prototype.trimend": Set {
+    "1.0.5",
+  },
+  "string.prototype.trimstart": Set {
+    "1.0.5",
+  },
+  "strip-ansi": Set {
+    "6.0.1",
+    "7.0.1",
+  },
+  "strip-bom": Set {
+    "3.0.0",
+  },
+  "strip-final-newline": Set {
+    "2.0.0",
+  },
+  "strip-indent": Set {
+    "3.0.0",
+  },
+  "strip-json-comments": Set {
+    "3.1.1",
+  },
+  "sucrase": Set {
+    "3.25.0",
+  },
+  "supports-color": Set {
+    "5.5.0",
+    "7.2.0",
+  },
+  "supports-hyperlinks": Set {
+    "2.2.0",
+  },
+  "supports-preserve-symlinks-flag": Set {
+    "1.0.0",
+  },
+  "svg-tags": Set {
+    "1.0.0",
+  },
+  "terminal-link": Set {
+    "2.1.1",
+  },
+  "text-table": Set {
+    "0.2.0",
+  },
+  "thenify": Set {
+    "3.3.1",
+  },
+  "thenify-all": Set {
+    "1.6.0",
+  },
+  "tinypool": Set {
+    "0.2.4",
+  },
+  "tinyspy": Set {
+    "1.0.0",
+  },
+  "to-fast-properties": Set {
+    "2.0.0",
+  },
+  "to-regex-range": Set {
+    "5.0.1",
+  },
+  "tr46": Set {
+    "1.0.1",
+  },
+  "tree-kill": Set {
+    "1.2.2",
+  },
+  "ts-interface-checker": Set {
+    "0.1.13",
+  },
+  "tsconfig-paths": Set {
+    "3.14.1",
+  },
+  "tslib": Set {
+    "1.14.1",
+  },
+  "tsup": Set {
+    "6.2.1",
+  },
+  "tsutils": Set {
+    "3.21.0",
+  },
+  "type-check": Set {
+    "0.4.0",
+  },
+  "type-detect": Set {
+    "4.0.8",
+  },
+  "type-fest": Set {
+    "0.20.2",
+    "0.21.3",
+    "0.6.0",
+    "0.8.1",
+    "2.18.0",
+  },
+  "typescript": Set {
+    "4.7.4",
+  },
+  "ufo": Set {
+    "0.8.5",
+  },
+  "unbox-primitive": Set {
+    "1.0.2",
+  },
+  "unbuild": Set {
+    "0.7.6",
+  },
+  "unist-util-stringify-position": Set {
+    "2.0.3",
+  },
+  "universalify": Set {
+    "2.0.0",
+  },
+  "untyped": Set {
+    "0.4.4",
+  },
+  "update-browserslist-db": Set {
+    "1.0.5",
+  },
+  "uri-js": Set {
+    "4.4.1",
+  },
+  "util-deprecate": Set {
+    "1.0.2",
+  },
+  "v8-compile-cache": Set {
+    "2.3.0",
+  },
+  "validate-npm-package-license": Set {
+    "3.0.4",
+  },
+  "vite": Set {
+    "2.9.14",
+    "3.0.5",
+  },
+  "vite-node": Set {
+    "0.19.1",
+    "0.21.1",
+  },
+  "vitest": Set {
+    "0.20.3",
+  },
+  "vue": Set {
+    "3.2.37",
+  },
+  "vue-eslint-parser": Set {
+    "9.0.3",
+  },
+  "webidl-conversions": Set {
+    "4.0.2",
+  },
+  "whatwg-url": Set {
+    "7.1.0",
+  },
+  "which": Set {
+    "2.0.2",
+  },
+  "which-boxed-primitive": Set {
+    "1.0.2",
+  },
+  "widest-line": Set {
+    "3.1.0",
+    "4.0.1",
+  },
+  "word-wrap": Set {
+    "1.2.3",
+  },
+  "wrap-ansi": Set {
+    "7.0.0",
+    "8.0.1",
+  },
+  "wrappy": Set {
+    "1.0.2",
+  },
+  "xml-name-validator": Set {
+    "4.0.0",
+  },
+  "yallist": Set {
+    "4.0.0",
+  },
+  "yaml": Set {
+    "1.10.2",
+    "2.1.1",
+  },
+  "yaml-eslint-parser": Set {
+    "1.1.0",
+  },
+  "yocto-queue": Set {
+    "0.1.0",
+  },
+  "yoga-layout-prebuilt": Set {
+    "1.10.0",
+  },
+}
+`;
+
+exports[`get version for fixtures > ./fixtures/pnpm-6.yaml 1`] = `
+{
+  "@0no-co/graphql.web": Set {
+    "1.0.",
+  },
+  "@aashutoshrathi/word-wrap": Set {
+    "1.2.",
+  },
+  "@adraffy/ens-normalize": Set {
+    "1.10.",
+  },
+  "@alloc/quick-lru": Set {
+    "5.2.",
+  },
+  "@ampproject/remapping": Set {
+    "2.2.",
+  },
+  "@antfu/install-pkg": Set {
+    "0.1.",
+  },
+  "@antfu/utils": Set {
+    "0.7.",
+  },
+  "@anthropic-ai/sdk": Set {
+    "0.9.",
+  },
+  "@babel/code-frame": Set {
+    "7.23.",
+  },
+  "@babel/compat-data": Set {
+    "7.23.",
+  },
+  "@babel/core": Set {
+    "7.23.",
+  },
+  "@babel/generator": Set {
+    "7.23.",
+  },
+  "@babel/helper-compilation-targets": Set {
+    "7.23.",
+  },
+  "@babel/helper-environment-visitor": Set {
+    "7.22.2",
+  },
+  "@babel/helper-function-name": Set {
+    "7.23.",
+  },
+  "@babel/helper-hoist-variables": Set {
+    "7.22.",
+  },
+  "@babel/helper-module-imports": Set {
+    "7.22.1",
+  },
+  "@babel/helper-module-transforms": Set {
+    "7.23.3",
+  },
+  "@babel/helper-simple-access": Set {
+    "7.22.",
+  },
+  "@babel/helper-split-export-declaration": Set {
+    "7.22.",
+  },
+  "@babel/helper-string-parser": Set {
+    "7.23.",
+  },
+  "@babel/helper-validator-identifier": Set {
+    "7.22.2",
+  },
+  "@babel/helper-validator-option": Set {
+    "7.23.",
+  },
+  "@babel/helpers": Set {
+    "7.23.",
+  },
+  "@babel/highlight": Set {
+    "7.23.",
+  },
+  "@babel/parser": Set {
+    "7.23.",
+  },
+  "@babel/runtime": Set {
+    "7.23.",
+  },
+  "@babel/runtime-corejs3": Set {
+    "7.23.",
+  },
+  "@babel/template": Set {
+    "7.23.",
+  },
+  "@babel/traverse": Set {
+    "7.23.",
+  },
+  "@babel/types": Set {
+    "7.23.",
+  },
+  "@birdgg/react-github": Set {
+    "0.2.3",
+  },
+  "@braintree/sanitize-url": Set {
+    "6.0.",
+  },
+  "@bret/truthy": Set {
+    "1.0.",
+  },
+  "@codemirror/autocomplete": Set {
+    "6.12.0",
+  },
+  "@codemirror/commands": Set {
+    "6.3.",
+  },
+  "@codemirror/lang-angular": Set {
+    "0.1.",
+  },
+  "@codemirror/lang-cpp": Set {
+    "6.0.",
+  },
+  "@codemirror/lang-css": Set {
+    "6.2.1",
+  },
+  "@codemirror/lang-html": Set {
+    "6.4.",
+  },
+  "@codemirror/lang-java": Set {
+    "6.0.",
+  },
+  "@codemirror/lang-javascript": Set {
+    "6.2.",
+  },
+  "@codemirror/lang-json": Set {
+    "6.0.",
+  },
+  "@codemirror/lang-less": Set {
+    "6.0.2",
+  },
+  "@codemirror/lang-liquid": Set {
+    "6.2.",
+  },
+  "@codemirror/lang-markdown": Set {
+    "6.2.",
+  },
+  "@codemirror/lang-php": Set {
+    "6.0.",
+  },
+  "@codemirror/lang-python": Set {
+    "6.1.4",
+  },
+  "@codemirror/lang-rust": Set {
+    "6.0.",
+  },
+  "@codemirror/lang-sass": Set {
+    "6.0.2",
+  },
+  "@codemirror/lang-sql": Set {
+    "6.5.5",
+  },
+  "@codemirror/lang-vue": Set {
+    "0.1.",
+  },
+  "@codemirror/lang-wast": Set {
+    "6.0.",
+  },
+  "@codemirror/lang-xml": Set {
+    "6.0.2",
+  },
+  "@codemirror/lang-yaml": Set {
+    "6.0.0",
+  },
+  "@codemirror/language": Set {
+    "6.10.",
+  },
+  "@codemirror/language-data": Set {
+    "6.4.1",
+  },
+  "@codemirror/legacy-modes": Set {
+    "6.3.",
+  },
+  "@codemirror/lint": Set {
+    "6.5.",
+  },
+  "@codemirror/state": Set {
+    "6.4.",
+  },
+  "@codemirror/theme-one-dark": Set {
+    "6.1.",
+  },
+  "@codemirror/view": Set {
+    "6.24.",
+  },
+  "@coinbase/wallet-sdk": Set {
+    "3.7.",
+  },
+  "@crossbell/connect-kit": Set {
+    "1.5.26",
+  },
+  "@crossbell/contract": Set {
+    "1.5.26",
+  },
+  "@crossbell/indexer": Set {
+    "1.5.26",
+  },
+  "@crossbell/ipfs-fetch": Set {
+    "0.0.2",
+  },
+  "@crossbell/notification": Set {
+    "1.5.26",
+  },
+  "@crossbell/react-account": Set {
+    "1.5.26",
+  },
+  "@crossbell/ui": Set {
+    "1.5.26",
+  },
+  "@crossbell/util-ethers": Set {
+    "1.5.2",
+  },
+  "@crossbell/util-hooks": Set {
+    "1.5.26",
+  },
+  "@crossbell/util-metadata": Set {
+    "1.5.26",
+  },
+  "@cspell/cspell-bundled-dicts": Set {
+    "8.4.",
+  },
+  "@cspell/cspell-json-reporter": Set {
+    "8.4.",
+  },
+  "@cspell/cspell-pipe": Set {
+    "8.4.",
+  },
+  "@cspell/cspell-resolver": Set {
+    "8.4.",
+  },
+  "@cspell/cspell-service-bus": Set {
+    "8.4.",
+  },
+  "@cspell/cspell-types": Set {
+    "8.4.",
+  },
+  "@cspell/dict-ada": Set {
+    "4.0.",
+  },
+  "@cspell/dict-aws": Set {
+    "4.0.",
+  },
+  "@cspell/dict-bash": Set {
+    "4.1.",
+  },
+  "@cspell/dict-companies": Set {
+    "3.0.3",
+  },
+  "@cspell/dict-cpp": Set {
+    "5.1.",
+  },
+  "@cspell/dict-cryptocurrencies": Set {
+    "5.0.",
+  },
+  "@cspell/dict-csharp": Set {
+    "4.0.",
+  },
+  "@cspell/dict-css": Set {
+    "4.0.1",
+  },
+  "@cspell/dict-dart": Set {
+    "2.0.",
+  },
+  "@cspell/dict-data-science": Set {
+    "1.0.1",
+  },
+  "@cspell/dict-django": Set {
+    "4.1.",
+  },
+  "@cspell/dict-docker": Set {
+    "1.1.",
+  },
+  "@cspell/dict-dotnet": Set {
+    "5.0.",
+  },
+  "@cspell/dict-elixir": Set {
+    "4.0.",
+  },
+  "@cspell/dict-en-common-misspellings": Set {
+    "2.0.",
+  },
+  "@cspell/dict-en-gb": Set {
+    "1.1.3",
+  },
+  "@cspell/dict-en_us": Set {
+    "4.3.1",
+  },
+  "@cspell/dict-filetypes": Set {
+    "3.0.",
+  },
+  "@cspell/dict-fonts": Set {
+    "4.0.",
+  },
+  "@cspell/dict-fsharp": Set {
+    "1.0.",
+  },
+  "@cspell/dict-fullstack": Set {
+    "3.1.",
+  },
+  "@cspell/dict-gaming-terms": Set {
+    "1.0.",
+  },
+  "@cspell/dict-git": Set {
+    "3.0.",
+  },
+  "@cspell/dict-golang": Set {
+    "6.0.",
+  },
+  "@cspell/dict-haskell": Set {
+    "4.0.",
+  },
+  "@cspell/dict-html": Set {
+    "4.0.",
+  },
+  "@cspell/dict-html-symbol-entities": Set {
+    "4.0.",
+  },
+  "@cspell/dict-java": Set {
+    "5.0.",
+  },
+  "@cspell/dict-k8s": Set {
+    "1.0.",
+  },
+  "@cspell/dict-latex": Set {
+    "4.0.",
+  },
+  "@cspell/dict-lorem-ipsum": Set {
+    "4.0.",
+  },
+  "@cspell/dict-lua": Set {
+    "4.0.",
+  },
+  "@cspell/dict-makefile": Set {
+    "1.0.",
+  },
+  "@cspell/dict-node": Set {
+    "4.0.",
+  },
+  "@cspell/dict-npm": Set {
+    "5.0.1",
+  },
+  "@cspell/dict-php": Set {
+    "4.0.",
+  },
+  "@cspell/dict-powershell": Set {
+    "5.0.",
+  },
+  "@cspell/dict-public-licenses": Set {
+    "2.0.",
+  },
+  "@cspell/dict-python": Set {
+    "4.1.1",
+  },
+  "@cspell/dict-r": Set {
+    "2.0.",
+  },
+  "@cspell/dict-ruby": Set {
+    "5.0.",
+  },
+  "@cspell/dict-rust": Set {
+    "4.0.",
+  },
+  "@cspell/dict-scala": Set {
+    "5.0.",
+  },
+  "@cspell/dict-software-terms": Set {
+    "3.3.1",
+  },
+  "@cspell/dict-sql": Set {
+    "2.1.",
+  },
+  "@cspell/dict-svelte": Set {
+    "1.0.",
+  },
+  "@cspell/dict-swift": Set {
+    "2.0.",
+  },
+  "@cspell/dict-typescript": Set {
+    "3.1.",
+  },
+  "@cspell/dict-vue": Set {
+    "3.0.",
+  },
+  "@cspell/dynamic-import": Set {
+    "8.4.",
+  },
+  "@cspell/strong-weak-map": Set {
+    "8.4.",
+  },
+  "@ddietr/codemirror-themes": Set {
+    "1.4.",
+  },
+  "@discoveryjs/json-ext": Set {
+    "0.5.",
+  },
+  "@egoist/tailwindcss-icons": Set {
+    "1.7.4",
+  },
+  "@emotion/babel-plugin": Set {
+    "11.11.",
+  },
+  "@emotion/cache": Set {
+    "11.11.",
+  },
+  "@emotion/hash": Set {
+    "0.9.",
+  },
+  "@emotion/is-prop-valid": Set {
+    "0.8.",
+  },
+  "@emotion/memoize": Set {
+    "0.7.",
+    "0.8.",
+  },
+  "@emotion/react": Set {
+    "11.11.3",
+  },
+  "@emotion/serialize": Set {
+    "1.1.",
+  },
+  "@emotion/sheet": Set {
+    "1.2.",
+  },
+  "@emotion/unitless": Set {
+    "0.8.",
+  },
+  "@emotion/use-insertion-effect-with-fallbacks": Set {
+    "1.0.1",
+  },
+  "@emotion/utils": Set {
+    "1.2.",
+  },
+  "@emotion/weak-memoize": Set {
+    "0.3.",
+  },
+  "@eslint-community/eslint-utils": Set {
+    "4.4.0",
+  },
+  "@eslint-community/regexpp": Set {
+    "4.10.",
+  },
+  "@eslint/eslintrc": Set {
+    "2.1.",
+  },
+  "@eslint/js": Set {
+    "8.56.",
+  },
+  "@fastify/busboy": Set {
+    "2.1.",
+  },
+  "@fastify/deepmerge": Set {
+    "1.3.",
+  },
+  "@floating-ui/core": Set {
+    "1.6.",
+  },
+  "@floating-ui/dom": Set {
+    "1.6.",
+  },
+  "@floating-ui/react": Set {
+    "0.19.2",
+    "0.24.8",
+    "0.26.9",
+  },
+  "@floating-ui/react-dom": Set {
+    "1.3.0",
+    "2.0.8",
+  },
+  "@floating-ui/utils": Set {
+    "0.2.",
+  },
+  "@formatjs/ecma402-abstract": Set {
+    "1.11.",
+    "1.18.",
+  },
+  "@formatjs/fast-memoize": Set {
+    "1.2.",
+  },
+  "@formatjs/icu-messageformat-parser": Set {
+    "2.1.",
+  },
+  "@formatjs/icu-skeleton-parser": Set {
+    "1.3.",
+  },
+  "@formatjs/intl-localematcher": Set {
+    "0.2.2",
+    "0.2.3",
+    "0.5.",
+  },
+  "@grpc/grpc-js": Set {
+    "1.10.",
+  },
+  "@grpc/proto-loader": Set {
+    "0.7.1",
+  },
+  "@headlessui/react": Set {
+    "1.7.18",
+  },
+  "@heroicons/react": Set {
+    "2.1.1",
+  },
+  "@humanwhocodes/config-array": Set {
+    "0.11.1",
+  },
+  "@humanwhocodes/module-importer": Set {
+    "1.0.",
+  },
+  "@humanwhocodes/object-schema": Set {
+    "2.0.",
+  },
+  "@ianvs/prettier-plugin-sort-imports": Set {
+    "4.1.1",
+  },
+  "@iconify-json/mingcute": Set {
+    "1.1.1",
+  },
+  "@iconify/types": Set {
+    "2.0.",
+  },
+  "@iconify/utils": Set {
+    "2.1.2",
+  },
+  "@ioredis/commands": Set {
+    "1.2.",
+  },
+  "@isaacs/cliui": Set {
+    "8.0.",
+  },
+  "@joyid/ethereum-provider": Set {
+    "0.1.2",
+  },
+  "@joyid/evm": Set {
+    "0.2.",
+  },
+  "@joyid/wagmi": Set {
+    "0.1.0",
+  },
+  "@jridgewell/gen-mapping": Set {
+    "0.3.",
+  },
+  "@jridgewell/resolve-uri": Set {
+    "3.1.",
+  },
+  "@jridgewell/set-array": Set {
+    "1.1.",
+  },
+  "@jridgewell/sourcemap-codec": Set {
+    "1.4.1",
+  },
+  "@jridgewell/trace-mapping": Set {
+    "0.3.2",
+  },
+  "@langchain/community": Set {
+    "0.0.30",
+  },
+  "@langchain/core": Set {
+    "0.1.3",
+  },
+  "@langchain/openai": Set {
+    "0.0.1",
+  },
+  "@lezer/common": Set {
+    "1.2.",
+  },
+  "@lezer/cpp": Set {
+    "1.1.",
+  },
+  "@lezer/css": Set {
+    "1.1.",
+  },
+  "@lezer/highlight": Set {
+    "1.2.",
+  },
+  "@lezer/html": Set {
+    "1.3.",
+  },
+  "@lezer/java": Set {
+    "1.1.",
+  },
+  "@lezer/javascript": Set {
+    "1.4.1",
+  },
+  "@lezer/json": Set {
+    "1.0.",
+  },
+  "@lezer/lr": Set {
+    "1.4.",
+  },
+  "@lezer/markdown": Set {
+    "1.2.",
+  },
+  "@lezer/php": Set {
+    "1.0.",
+  },
+  "@lezer/python": Set {
+    "1.1.1",
+  },
+  "@lezer/rust": Set {
+    "1.0.",
+  },
+  "@lezer/sass": Set {
+    "1.0.",
+  },
+  "@lezer/xml": Set {
+    "1.0.",
+  },
+  "@lezer/yaml": Set {
+    "1.0.",
+  },
+  "@lit-labs/ssr-dom-shim": Set {
+    "1.1.",
+  },
+  "@lit/reactive-element": Set {
+    "1.6.",
+  },
+  "@mantine/core": Set {
+    "6.0.21",
+    "7.5.3",
+  },
+  "@mantine/dates": Set {
+    "7.5.3",
+  },
+  "@mantine/hooks": Set {
+    "6.0.21",
+    "7.5.3",
+  },
+  "@mantine/notifications": Set {
+    "6.0.21",
+  },
+  "@mantine/styles": Set {
+    "6.0.21",
+  },
+  "@mantine/utils": Set {
+    "6.0.21",
+  },
+  "@metamask/safe-event-emitter": Set {
+    "2.0.",
+  },
+  "@metamask/utils": Set {
+    "3.6.",
+  },
+  "@microflash/remark-callout-directives": Set {
+    "4.0.",
+  },
+  "@monaco-editor/loader": Set {
+    "1.4.0",
+  },
+  "@monaco-editor/react": Set {
+    "4.6.0",
+  },
+  "@motionone/animation": Set {
+    "10.16.",
+  },
+  "@motionone/dom": Set {
+    "10.16.",
+  },
+  "@motionone/easing": Set {
+    "10.16.",
+  },
+  "@motionone/generators": Set {
+    "10.16.",
+  },
+  "@motionone/svelte": Set {
+    "10.16.",
+  },
+  "@motionone/types": Set {
+    "10.16.",
+  },
+  "@motionone/utils": Set {
+    "10.16.",
+  },
+  "@motionone/vue": Set {
+    "10.16.",
+  },
+  "@next/bundle-analyzer": Set {
+    "14.1.",
+  },
+  "@next/env": Set {
+    "14.1.",
+  },
+  "@next/eslint-plugin-next": Set {
+    "14.1.",
+  },
+  "@next/swc-darwin-arm64": Set {
+    "14.1.",
+  },
+  "@next/swc-darwin-x64": Set {
+    "14.1.",
+  },
+  "@next/swc-linux-arm64-gnu": Set {
+    "14.1.",
+  },
+  "@next/swc-linux-arm64-musl": Set {
+    "14.1.",
+  },
+  "@next/swc-linux-x64-gnu": Set {
+    "14.1.",
+  },
+  "@next/swc-linux-x64-musl": Set {
+    "14.1.",
+  },
+  "@next/swc-win32-arm64-msvc": Set {
+    "14.1.",
+  },
+  "@next/swc-win32-ia32-msvc": Set {
+    "14.1.",
+  },
+  "@next/swc-win32-x64-msvc": Set {
+    "14.1.",
+  },
+  "@noble/curves": Set {
+    "1.2.",
+    "1.3.",
+  },
+  "@noble/hashes": Set {
+    "1.3.",
+  },
+  "@nodelib/fs.scandir": Set {
+    "2.1.",
+  },
+  "@nodelib/fs.stat": Set {
+    "2.0.",
+  },
+  "@nodelib/fs.walk": Set {
+    "1.2.",
+  },
+  "@opentelemetry/api": Set {
+    "1.7.",
+  },
+  "@opentelemetry/api-logs": Set {
+    "0.46.",
+  },
+  "@opentelemetry/context-async-hooks": Set {
+    "1.19.0",
+    "1.21.0",
+  },
+  "@opentelemetry/core": Set {
+    "1.19.0",
+    "1.21.0",
+  },
+  "@opentelemetry/exporter-trace-otlp-grpc": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/exporter-trace-otlp-http": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/exporter-trace-otlp-proto": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/exporter-zipkin": Set {
+    "1.19.0",
+  },
+  "@opentelemetry/instrumentation": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/otlp-exporter-base": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/otlp-grpc-exporter-base": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/otlp-proto-exporter-base": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/otlp-transformer": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/propagator-b3": Set {
+    "1.19.0",
+  },
+  "@opentelemetry/propagator-jaeger": Set {
+    "1.19.0",
+  },
+  "@opentelemetry/resources": Set {
+    "1.19.0",
+    "1.21.0",
+  },
+  "@opentelemetry/sdk-logs": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/sdk-metrics": Set {
+    "1.19.0",
+    "1.21.0",
+  },
+  "@opentelemetry/sdk-node": Set {
+    "0.46.0",
+  },
+  "@opentelemetry/sdk-trace-base": Set {
+    "1.19.0",
+    "1.21.0",
+  },
+  "@opentelemetry/sdk-trace-node": Set {
+    "1.19.0",
+  },
+  "@opentelemetry/semantic-conventions": Set {
+    "1.19.",
+    "1.21.",
+  },
+  "@parcel/watcher": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-android-arm64": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-darwin-arm64": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-darwin-x64": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-freebsd-x64": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-linux-arm-glibc": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-linux-arm64-glibc": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-linux-arm64-musl": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-linux-x64-glibc": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-linux-x64-musl": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-wasm": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-win32-arm64": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-win32-ia32": Set {
+    "2.3.",
+  },
+  "@parcel/watcher-win32-x64": Set {
+    "2.3.",
+  },
+  "@pkgjs/parseargs": Set {
+    "0.11.",
+  },
+  "@polka/url": Set {
+    "1.0.0-next.2",
+  },
+  "@popperjs/core": Set {
+    "2.11.",
+  },
+  "@primer/octicons-react": Set {
+    "19.8.0",
+  },
+  "@prisma/client": Set {
+    "5.9.1",
+  },
+  "@prisma/debug": Set {
+    "5.9.",
+  },
+  "@prisma/engines": Set {
+    "5.9.",
+  },
+  "@prisma/engines-version": Set {
+    "5.9.0-32.23fdc5965b1e05fc54e5f26ed3de66776b93de6",
+  },
+  "@prisma/fetch-engine": Set {
+    "5.9.",
+  },
+  "@prisma/get-platform": Set {
+    "5.9.",
+  },
+  "@protobufjs/aspromise": Set {
+    "1.1.",
+  },
+  "@protobufjs/base64": Set {
+    "1.1.",
+  },
+  "@protobufjs/codegen": Set {
+    "2.0.",
+  },
+  "@protobufjs/eventemitter": Set {
+    "1.1.",
+  },
+  "@protobufjs/fetch": Set {
+    "1.1.",
+  },
+  "@protobufjs/float": Set {
+    "1.0.",
+  },
+  "@protobufjs/inquire": Set {
+    "1.1.",
+  },
+  "@protobufjs/path": Set {
+    "1.1.",
+  },
+  "@protobufjs/pool": Set {
+    "1.1.",
+  },
+  "@protobufjs/utf8": Set {
+    "1.1.",
+  },
+  "@radix-ui/number": Set {
+    "1.0.",
+  },
+  "@radix-ui/primitive": Set {
+    "1.0.",
+  },
+  "@radix-ui/react-compose-refs": Set {
+    "1.0.0",
+  },
+  "@radix-ui/react-context": Set {
+    "1.0.0",
+  },
+  "@radix-ui/react-direction": Set {
+    "1.0.0",
+  },
+  "@radix-ui/react-presence": Set {
+    "1.0.0",
+  },
+  "@radix-ui/react-primitive": Set {
+    "1.0.1",
+  },
+  "@radix-ui/react-scroll-area": Set {
+    "1.0.2",
+  },
+  "@radix-ui/react-slot": Set {
+    "1.0.1",
+  },
+  "@radix-ui/react-use-callback-ref": Set {
+    "1.0.0",
+  },
+  "@radix-ui/react-use-layout-effect": Set {
+    "1.0.0",
+  },
+  "@rushstack/eslint-patch": Set {
+    "1.7.",
+  },
+  "@safe-global/safe-apps-provider": Set {
+    "0.18.1",
+  },
+  "@safe-global/safe-apps-sdk": Set {
+    "8.1.0",
+  },
+  "@safe-global/safe-gateway-typescript-sdk": Set {
+    "3.13.",
+  },
+  "@scure/base": Set {
+    "1.1.",
+  },
+  "@scure/bip32": Set {
+    "1.3.",
+  },
+  "@scure/bip39": Set {
+    "1.2.",
+  },
+  "@sindresorhus/is": Set {
+    "3.1.",
+  },
+  "@solana/buffer-layout": Set {
+    "4.0.",
+  },
+  "@solana/web3.js": Set {
+    "1.87.",
+  },
+  "@stablelib/aead": Set {
+    "1.0.",
+  },
+  "@stablelib/binary": Set {
+    "1.0.",
+  },
+  "@stablelib/bytes": Set {
+    "1.0.",
+  },
+  "@stablelib/chacha": Set {
+    "1.0.",
+  },
+  "@stablelib/chacha20poly1305": Set {
+    "1.0.",
+  },
+  "@stablelib/constant-time": Set {
+    "1.0.",
+  },
+  "@stablelib/ed25519": Set {
+    "1.0.",
+  },
+  "@stablelib/hash": Set {
+    "1.0.",
+  },
+  "@stablelib/hkdf": Set {
+    "1.0.",
+  },
+  "@stablelib/hmac": Set {
+    "1.0.",
+  },
+  "@stablelib/int": Set {
+    "1.0.",
+  },
+  "@stablelib/keyagreement": Set {
+    "1.0.",
+  },
+  "@stablelib/poly1305": Set {
+    "1.0.",
+  },
+  "@stablelib/random": Set {
+    "1.0.",
+  },
+  "@stablelib/sha256": Set {
+    "1.0.",
+  },
+  "@stablelib/sha512": Set {
+    "1.0.",
+  },
+  "@stablelib/wipe": Set {
+    "1.0.",
+  },
+  "@stablelib/x25519": Set {
+    "1.0.",
+  },
+  "@supercharge/request-ip": Set {
+    "1.2.",
+  },
+  "@swc/helpers": Set {
+    "0.5.",
+  },
+  "@tanstack/query-core": Set {
+    "4.36.",
+  },
+  "@tanstack/query-persist-client-core": Set {
+    "4.36.",
+  },
+  "@tanstack/query-sync-storage-persister": Set {
+    "4.36.",
+  },
+  "@tanstack/react-query": Set {
+    "4.36.1",
+  },
+  "@tanstack/react-query-persist-client": Set {
+    "4.36.1",
+  },
+  "@tanstack/react-virtual": Set {
+    "3.0.1",
+  },
+  "@tanstack/virtual-core": Set {
+    "3.0.",
+  },
+  "@textlint/ast-node-types": Set {
+    "13.3.",
+  },
+  "@tianfeng98/hls.js": Set {
+    "1.0.",
+  },
+  "@types/async-lock": Set {
+    "1.4.",
+  },
+  "@types/canvas-confetti": Set {
+    "1.6.",
+  },
+  "@types/chroma-js": Set {
+    "2.4.",
+  },
+  "@types/connect": Set {
+    "3.4.3",
+  },
+  "@types/d3-scale": Set {
+    "4.0.",
+  },
+  "@types/d3-scale-chromatic": Set {
+    "3.0.",
+  },
+  "@types/d3-time": Set {
+    "3.0.",
+  },
+  "@types/debug": Set {
+    "4.1.1",
+  },
+  "@types/dompurify": Set {
+    "3.0.",
+  },
+  "@types/estree": Set {
+    "1.0.",
+  },
+  "@types/estree-jsx": Set {
+    "1.0.",
+  },
+  "@types/hast": Set {
+    "2.3.1",
+    "3.0.",
+  },
+  "@types/js-yaml": Set {
+    "4.0.",
+  },
+  "@types/json5": Set {
+    "0.0.2",
+  },
+  "@types/katex": Set {
+    "0.16.",
+  },
+  "@types/mdast": Set {
+    "3.0.1",
+    "4.0.",
+  },
+  "@types/ms": Set {
+    "0.7.3",
+  },
+  "@types/node": Set {
+    "12.20.5",
+    "18.19.1",
+    "20.11.1",
+  },
+  "@types/node-fetch": Set {
+    "2.6.1",
+  },
+  "@types/pangu": Set {
+    "4.0.",
+  },
+  "@types/parse-author": Set {
+    "2.0.",
+  },
+  "@types/parse-json": Set {
+    "4.0.",
+  },
+  "@types/prismjs": Set {
+    "1.26.",
+  },
+  "@types/prop-types": Set {
+    "15.7.1",
+  },
+  "@types/react": Set {
+    "18.2.5",
+  },
+  "@types/react-dom": Set {
+    "18.2.1",
+  },
+  "@types/remove-markdown": Set {
+    "0.3.",
+  },
+  "@types/retry": Set {
+    "0.12.",
+  },
+  "@types/scheduler": Set {
+    "0.16.",
+  },
+  "@types/serialize-javascript": Set {
+    "5.0.",
+  },
+  "@types/shimmer": Set {
+    "1.0.",
+  },
+  "@types/sortablejs": Set {
+    "1.15.",
+  },
+  "@types/trusted-types": Set {
+    "2.0.",
+  },
+  "@types/ungap__structured-clone": Set {
+    "0.3.",
+  },
+  "@types/unist": Set {
+    "2.0.1",
+    "3.0.",
+  },
+  "@types/uuid": Set {
+    "9.0.",
+  },
+  "@types/ws": Set {
+    "7.4.",
+  },
+  "@typescript-eslint/parser": Set {
+    "6.19.0",
+  },
+  "@typescript-eslint/scope-manager": Set {
+    "6.19.",
+  },
+  "@typescript-eslint/types": Set {
+    "6.19.",
+  },
+  "@typescript-eslint/typescript-estree": Set {
+    "6.19.0",
+  },
+  "@typescript-eslint/visitor-keys": Set {
+    "6.19.",
+  },
+  "@uiw/codemirror-extensions-events": Set {
+    "4.21.22",
+  },
+  "@ungap/structured-clone": Set {
+    "1.2.",
+  },
+  "@urql/core": Set {
+    "4.2.",
+  },
+  "@vercel/otel": Set {
+    "1.3.0",
+  },
+  "@wagmi/connectors": Set {
+    "3.1.11",
+  },
+  "@wagmi/core": Set {
+    "1.4.13",
+  },
+  "@walletconnect/core": Set {
+    "2.11.",
+  },
+  "@walletconnect/crypto": Set {
+    "1.0.",
+  },
+  "@walletconnect/encoding": Set {
+    "1.0.",
+  },
+  "@walletconnect/environment": Set {
+    "1.0.",
+  },
+  "@walletconnect/ethereum-provider": Set {
+    "2.11.0",
+  },
+  "@walletconnect/events": Set {
+    "1.0.",
+  },
+  "@walletconnect/heartbeat": Set {
+    "1.2.",
+  },
+  "@walletconnect/jsonrpc-http-connection": Set {
+    "1.0.",
+  },
+  "@walletconnect/jsonrpc-provider": Set {
+    "1.0.1",
+  },
+  "@walletconnect/jsonrpc-types": Set {
+    "1.0.",
+  },
+  "@walletconnect/jsonrpc-utils": Set {
+    "1.0.",
+  },
+  "@walletconnect/jsonrpc-ws-connection": Set {
+    "1.0.1",
+  },
+  "@walletconnect/keyvaluestorage": Set {
+    "1.1.",
+  },
+  "@walletconnect/legacy-client": Set {
+    "2.0.",
+  },
+  "@walletconnect/legacy-modal": Set {
+    "2.0.",
+  },
+  "@walletconnect/legacy-provider": Set {
+    "2.0.",
+  },
+  "@walletconnect/legacy-types": Set {
+    "2.0.",
+  },
+  "@walletconnect/legacy-utils": Set {
+    "2.0.",
+  },
+  "@walletconnect/logger": Set {
+    "2.0.",
+  },
+  "@walletconnect/modal": Set {
+    "2.6.2",
+  },
+  "@walletconnect/modal-core": Set {
+    "2.6.2",
+  },
+  "@walletconnect/modal-ui": Set {
+    "2.6.2",
+  },
+  "@walletconnect/randombytes": Set {
+    "1.0.",
+  },
+  "@walletconnect/relay-api": Set {
+    "1.0.",
+  },
+  "@walletconnect/relay-auth": Set {
+    "1.0.",
+  },
+  "@walletconnect/safe-json": Set {
+    "1.0.",
+  },
+  "@walletconnect/sign-client": Set {
+    "2.11.",
+  },
+  "@walletconnect/time": Set {
+    "1.0.",
+  },
+  "@walletconnect/types": Set {
+    "2.11.",
+  },
+  "@walletconnect/universal-provider": Set {
+    "2.11.",
+  },
+  "@walletconnect/utils": Set {
+    "2.11.",
+  },
+  "@walletconnect/window-getters": Set {
+    "1.0.",
+  },
+  "@walletconnect/window-metadata": Set {
+    "1.0.",
+  },
+  "@web3modal/ethereum": Set {
+    "2.7.1",
+  },
+  "JSONStream": Set {
+    "1.3.",
+  },
+  "abitype": Set {
+    "0.10.0",
+    "0.8.7",
+    "0.9.8",
+  },
+  "abort-controller": Set {
+    "3.0.",
+  },
+  "acorn": Set {
+    "8.11.",
+  },
+  "acorn-import-assertions": Set {
+    "1.9.0",
+  },
+  "acorn-jsx": Set {
+    "5.3.2",
+  },
+  "acorn-walk": Set {
+    "8.3.",
+  },
+  "add-zero": Set {
+    "1.0.",
+  },
+  "aes-js": Set {
+    "3.1.",
+  },
+  "agent-base": Set {
+    "7.1.",
+  },
+  "agentkeepalive": Set {
+    "4.5.",
+  },
+  "ahooks": Set {
+    "3.7.10",
+  },
+  "ajv": Set {
+    "6.12.",
+  },
+  "ansi-escapes": Set {
+    "6.2.",
+  },
+  "ansi-regex": Set {
+    "5.0.",
+    "6.0.",
+  },
+  "ansi-styles": Set {
+    "3.2.",
+    "4.3.",
+    "5.2.",
+    "6.2.",
+  },
+  "any-promise": Set {
+    "1.3.",
+  },
+  "anymatch": Set {
+    "3.1.",
+  },
+  "aplayer": Set {
+    "1.10.",
+  },
+  "arch": Set {
+    "2.2.",
+  },
+  "arg": Set {
+    "5.0.",
+  },
+  "argparse": Set {
+    "2.0.",
+  },
+  "aria-hidden": Set {
+    "1.2.",
+  },
+  "aria-query": Set {
+    "5.3.",
+  },
+  "array-buffer-byte-length": Set {
+    "1.0.",
+  },
+  "array-includes": Set {
+    "3.1.",
+  },
+  "array-timsort": Set {
+    "1.0.",
+  },
+  "array-union": Set {
+    "2.1.",
+  },
+  "array.prototype.findlastindex": Set {
+    "1.2.",
+  },
+  "array.prototype.flat": Set {
+    "1.3.",
+  },
+  "array.prototype.flatmap": Set {
+    "1.3.",
+  },
+  "array.prototype.tosorted": Set {
+    "1.1.",
+  },
+  "arraybuffer.prototype.slice": Set {
+    "1.0.",
+  },
+  "ast-types-flow": Set {
+    "0.0.",
+  },
+  "async-cache-dedupe": Set {
+    "2.0.",
+  },
+  "async-lock": Set {
+    "1.4.",
+  },
+  "async-mutex": Set {
+    "0.2.",
+  },
+  "async-retry": Set {
+    "1.3.",
+  },
+  "asynciterator.prototype": Set {
+    "1.0.",
+  },
+  "asynckit": Set {
+    "0.4.",
+  },
+  "atomic-sleep": Set {
+    "1.0.",
+  },
+  "attr-accept": Set {
+    "2.2.",
+  },
+  "author-regex": Set {
+    "1.0.",
+  },
+  "autoprefixer": Set {
+    "10.4.17",
+  },
+  "available-typed-arrays": Set {
+    "1.0.",
+  },
+  "axe-core": Set {
+    "4.7.",
+  },
+  "axios": Set {
+    "1.2.",
+  },
+  "axobject-query": Set {
+    "3.2.",
+  },
+  "b4a": Set {
+    "1.6.",
+  },
+  "babel-plugin-macros": Set {
+    "3.1.",
+  },
+  "bail": Set {
+    "2.0.",
+  },
+  "balanced-match": Set {
+    "1.0.",
+  },
+  "balloon-css": Set {
+    "0.5.",
+    "1.2.",
+  },
+  "base-64": Set {
+    "0.1.",
+  },
+  "base-x": Set {
+    "3.0.",
+  },
+  "base64-js": Set {
+    "1.5.",
+  },
+  "bcp-47-match": Set {
+    "2.0.",
+  },
+  "bigint-buffer": Set {
+    "1.1.",
+  },
+  "binary-extensions": Set {
+    "2.2.",
+  },
+  "binary-search": Set {
+    "1.3.",
+  },
+  "bind-decorator": Set {
+    "1.0.1",
+  },
+  "bindings": Set {
+    "1.5.",
+  },
+  "bl": Set {
+    "4.1.",
+  },
+  "bn.js": Set {
+    "5.2.",
+  },
+  "boolbase": Set {
+    "1.0.",
+  },
+  "borsh": Set {
+    "0.7.",
+  },
+  "boundary": Set {
+    "2.0.",
+  },
+  "brace-expansion": Set {
+    "1.1.1",
+    "2.0.",
+  },
+  "braces": Set {
+    "3.0.",
+  },
+  "browserslist": Set {
+    "4.23.",
+  },
+  "bs58": Set {
+    "4.0.",
+  },
+  "buffer": Set {
+    "5.7.",
+    "6.0.",
+  },
+  "bufferutil": Set {
+    "4.0.",
+  },
+  "busboy": Set {
+    "1.6.",
+  },
+  "call-bind": Set {
+    "1.0.",
+  },
+  "callsites": Set {
+    "3.1.",
+  },
+  "camelcase": Set {
+    "5.3.",
+    "6.3.",
+  },
+  "camelcase-css": Set {
+    "2.0.",
+  },
+  "caniuse-lite": Set {
+    "1.0.3000158",
+  },
+  "canvas-confetti": Set {
+    "1.9.",
+  },
+  "ccount": Set {
+    "2.0.",
+  },
+  "chalk": Set {
+    "2.4.",
+    "4.1.",
+    "5.3.",
+  },
+  "chalk-template": Set {
+    "1.1.",
+  },
+  "char-regex": Set {
+    "1.0.",
+  },
+  "character-entities": Set {
+    "2.0.",
+  },
+  "character-entities-html4": Set {
+    "2.1.",
+  },
+  "character-entities-legacy": Set {
+    "3.0.",
+  },
+  "character-reference-invalid": Set {
+    "2.0.",
+  },
+  "chardet": Set {
+    "2.0.",
+  },
+  "charenc": Set {
+    "0.0.",
+  },
+  "check-password-strength": Set {
+    "2.0.",
+  },
+  "cheerio": Set {
+    "1.0.0-rc.1",
+  },
+  "cheerio-select": Set {
+    "2.1.",
+  },
+  "chokidar": Set {
+    "3.5.",
+  },
+  "chownr": Set {
+    "1.1.",
+  },
+  "chroma-js": Set {
+    "2.4.",
+  },
+  "citty": Set {
+    "0.1.",
+  },
+  "cjs-module-lexer": Set {
+    "1.2.",
+  },
+  "classnames": Set {
+    "2.3.",
+    "2.5.",
+  },
+  "clean-deep": Set {
+    "3.4.",
+  },
+  "clear-module": Set {
+    "4.1.",
+  },
+  "cli-cursor": Set {
+    "4.0.",
+  },
+  "cli-truncate": Set {
+    "4.0.",
+  },
+  "client-only": Set {
+    "0.0.",
+  },
+  "clipboardy": Set {
+    "3.0.",
+  },
+  "cliui": Set {
+    "6.0.",
+    "8.0.",
+  },
+  "clsx": Set {
+    "1.1.",
+    "1.2.",
+    "2.0.",
+    "2.1.",
+  },
+  "cluster-key-slot": Set {
+    "1.1.",
+  },
+  "color": Set {
+    "4.2.",
+  },
+  "color-convert": Set {
+    "1.9.",
+    "2.0.",
+  },
+  "color-name": Set {
+    "1.1.",
+  },
+  "color-string": Set {
+    "1.9.",
+  },
+  "colorette": Set {
+    "2.0.2",
+  },
+  "combined-stream": Set {
+    "1.0.",
+  },
+  "comma-separated-tokens": Set {
+    "2.0.",
+  },
+  "commander": Set {
+    "10.0.",
+    "11.1.",
+    "12.0.",
+    "2.20.",
+    "4.1.",
+    "7.2.",
+    "8.3.",
+  },
+  "comment-json": Set {
+    "4.2.",
+  },
+  "concat-map": Set {
+    "0.0.",
+  },
+  "configstore": Set {
+    "6.0.",
+  },
+  "consola": Set {
+    "3.2.",
+  },
+  "convert-source-map": Set {
+    "1.9.",
+    "2.0.",
+  },
+  "cookie-es": Set {
+    "1.0.",
+  },
+  "copy-to-clipboard": Set {
+    "3.3.",
+  },
+  "core-js-pure": Set {
+    "3.33.",
+  },
+  "core-util-is": Set {
+    "1.0.",
+  },
+  "cose-base": Set {
+    "1.0.",
+  },
+  "cosmiconfig": Set {
+    "7.1.",
+  },
+  "crelt": Set {
+    "1.0.",
+  },
+  "cross-fetch": Set {
+    "3.1.",
+  },
+  "cross-spawn": Set {
+    "7.0.",
+  },
+  "crossbell": Set {
+    "1.11.3",
+  },
+  "crypt": Set {
+    "0.0.",
+  },
+  "crypto-random-string": Set {
+    "4.0.",
+  },
+  "cspell": Set {
+    "8.4.",
+  },
+  "cspell-config-lib": Set {
+    "8.4.",
+  },
+  "cspell-dictionary": Set {
+    "8.4.",
+  },
+  "cspell-gitignore": Set {
+    "8.4.",
+  },
+  "cspell-glob": Set {
+    "8.4.",
+  },
+  "cspell-grammar": Set {
+    "8.4.",
+  },
+  "cspell-io": Set {
+    "8.4.",
+  },
+  "cspell-lib": Set {
+    "8.4.",
+  },
+  "cspell-trie-lib": Set {
+    "8.4.",
+  },
+  "css-select": Set {
+    "5.1.",
+  },
+  "css-selector-parser": Set {
+    "3.0.",
+  },
+  "css-what": Set {
+    "6.1.",
+  },
+  "cssesc": Set {
+    "3.0.",
+  },
+  "cssstyle": Set {
+    "4.0.",
+  },
+  "csstype": Set {
+    "3.0.",
+    "3.1.",
+  },
+  "cytoscape": Set {
+    "3.28.",
+  },
+  "cytoscape-cose-bilkent": Set {
+    "4.1.0",
+  },
+  "d3": Set {
+    "7.8.",
+  },
+  "d3-array": Set {
+    "2.12.",
+    "3.2.",
+  },
+  "d3-axis": Set {
+    "3.0.",
+  },
+  "d3-brush": Set {
+    "3.0.",
+  },
+  "d3-chord": Set {
+    "3.0.",
+  },
+  "d3-color": Set {
+    "3.1.",
+  },
+  "d3-contour": Set {
+    "4.0.",
+  },
+  "d3-delaunay": Set {
+    "6.0.",
+  },
+  "d3-dispatch": Set {
+    "3.0.",
+  },
+  "d3-drag": Set {
+    "3.0.",
+  },
+  "d3-dsv": Set {
+    "3.0.",
+  },
+  "d3-ease": Set {
+    "3.0.",
+  },
+  "d3-fetch": Set {
+    "3.0.",
+  },
+  "d3-force": Set {
+    "3.0.",
+  },
+  "d3-format": Set {
+    "3.1.",
+  },
+  "d3-geo": Set {
+    "3.1.",
+  },
+  "d3-hierarchy": Set {
+    "3.1.",
+  },
+  "d3-interpolate": Set {
+    "3.0.",
+  },
+  "d3-path": Set {
+    "1.0.",
+    "3.1.",
+  },
+  "d3-polygon": Set {
+    "3.0.",
+  },
+  "d3-quadtree": Set {
+    "3.0.",
+  },
+  "d3-random": Set {
+    "3.0.",
+  },
+  "d3-sankey": Set {
+    "0.12.",
+  },
+  "d3-scale": Set {
+    "4.0.",
+  },
+  "d3-scale-chromatic": Set {
+    "3.0.",
+  },
+  "d3-selection": Set {
+    "3.0.",
+  },
+  "d3-shape": Set {
+    "1.3.",
+    "3.2.",
+  },
+  "d3-time": Set {
+    "3.1.",
+  },
+  "d3-time-format": Set {
+    "4.1.",
+  },
+  "d3-timer": Set {
+    "3.0.",
+  },
+  "d3-transition": Set {
+    "3.0.1",
+  },
+  "d3-zoom": Set {
+    "3.0.",
+  },
+  "dagre-d3-es": Set {
+    "7.0.1",
+  },
+  "damerau-levenshtein": Set {
+    "1.0.",
+  },
+  "data-urls": Set {
+    "5.0.",
+  },
+  "date-fns": Set {
+    "2.30.",
+  },
+  "dayjs": Set {
+    "1.11.1",
+  },
+  "debounce": Set {
+    "1.2.",
+  },
+  "debug": Set {
+    "3.2.",
+    "4.3.",
+  },
+  "decamelize": Set {
+    "1.2.",
+  },
+  "decimal.js": Set {
+    "10.4.",
+  },
+  "decode-named-character-reference": Set {
+    "1.0.",
+  },
+  "decode-uri-component": Set {
+    "0.2.",
+  },
+  "decompress-response": Set {
+    "6.0.",
+  },
+  "deep-extend": Set {
+    "0.6.",
+  },
+  "deep-is": Set {
+    "0.1.",
+  },
+  "deepmerge": Set {
+    "4.3.",
+  },
+  "define-data-property": Set {
+    "1.1.",
+  },
+  "define-properties": Set {
+    "1.2.",
+  },
+  "defu": Set {
+    "6.1.",
+  },
+  "delaunator": Set {
+    "5.0.",
+  },
+  "delay": Set {
+    "5.0.",
+  },
+  "delayed-stream": Set {
+    "1.0.",
+  },
+  "denque": Set {
+    "2.1.",
+  },
+  "dequal": Set {
+    "2.0.",
+  },
+  "derive-valtio": Set {
+    "0.1.0",
+  },
+  "destr": Set {
+    "2.0.",
+  },
+  "detect-browser": Set {
+    "5.3.",
+  },
+  "detect-libc": Set {
+    "1.0.",
+    "2.0.",
+  },
+  "detect-node-es": Set {
+    "1.1.",
+  },
+  "devlop": Set {
+    "1.1.",
+  },
+  "didyoumean": Set {
+    "1.2.",
+  },
+  "diff": Set {
+    "5.2.",
+  },
+  "digest-fetch": Set {
+    "1.3.",
+  },
+  "dijkstrajs": Set {
+    "1.0.",
+  },
+  "dir-glob": Set {
+    "3.0.",
+  },
+  "direction": Set {
+    "2.0.",
+  },
+  "dlv": Set {
+    "1.1.",
+  },
+  "doctrine": Set {
+    "2.1.",
+    "3.0.",
+  },
+  "dom-helpers": Set {
+    "5.2.",
+  },
+  "dom-serializer": Set {
+    "2.0.",
+  },
+  "domelementtype": Set {
+    "2.3.",
+  },
+  "domhandler": Set {
+    "5.0.",
+  },
+  "dompurify": Set {
+    "3.0.",
+  },
+  "domutils": Set {
+    "3.1.",
+  },
+  "dot-prop": Set {
+    "6.0.",
+  },
+  "dplayer": Set {
+    "1.27.",
+  },
+  "duplexer": Set {
+    "0.1.",
+  },
+  "duplexify": Set {
+    "4.1.",
+  },
+  "eastasianwidth": Set {
+    "0.2.",
+  },
+  "eip1193-types": Set {
+    "0.2.",
+  },
+  "electron-to-chromium": Set {
+    "1.4.67",
+  },
+  "elkjs": Set {
+    "0.9.",
+  },
+  "embla-carousel": Set {
+    "7.1.",
+  },
+  "embla-carousel-react": Set {
+    "7.1.0",
+  },
+  "emoji-mart": Set {
+    "5.5.",
+  },
+  "emoji-regex": Set {
+    "10.3.",
+    "8.0.",
+    "9.2.",
+  },
+  "emojilib": Set {
+    "2.4.",
+  },
+  "emoticon": Set {
+    "4.0.",
+  },
+  "encode-utf8": Set {
+    "1.0.",
+  },
+  "end-of-stream": Set {
+    "1.4.",
+  },
+  "enhanced-resolve": Set {
+    "5.15.",
+  },
+  "entities": Set {
+    "2.2.",
+    "4.5.",
+  },
+  "error-ex": Set {
+    "1.3.",
+  },
+  "es-abstract": Set {
+    "1.22.",
+  },
+  "es-iterator-helpers": Set {
+    "1.0.1",
+  },
+  "es-set-tostringtag": Set {
+    "2.0.",
+  },
+  "es-shim-unscopables": Set {
+    "1.0.",
+  },
+  "es-to-primitive": Set {
+    "1.2.",
+  },
+  "es6-promise": Set {
+    "4.2.",
+  },
+  "es6-promisify": Set {
+    "5.0.",
+  },
+  "escalade": Set {
+    "3.1.",
+  },
+  "escape-string-regexp": Set {
+    "1.0.",
+    "4.0.",
+    "5.0.",
+  },
+  "eslint": Set {
+    "8.56.",
+  },
+  "eslint-config-next": Set {
+    "14.1.0",
+  },
+  "eslint-import-resolver-node": Set {
+    "0.3.",
+  },
+  "eslint-import-resolver-typescript": Set {
+    "3.6.1",
+  },
+  "eslint-module-utils": Set {
+    "2.8.0",
+  },
+  "eslint-plugin-import": Set {
+    "2.29.1",
+  },
+  "eslint-plugin-jsx-a11y": Set {
+    "6.8.0",
+  },
+  "eslint-plugin-react": Set {
+    "7.33.2",
+  },
+  "eslint-plugin-react-hooks": Set {
+    "4.6.0",
+  },
+  "eslint-plugin-tailwindcss": Set {
+    "3.14.2",
+  },
+  "eslint-plugin-unused-imports": Set {
+    "3.1.0",
+  },
+  "eslint-rule-composer": Set {
+    "0.3.",
+  },
+  "eslint-scope": Set {
+    "7.2.",
+  },
+  "eslint-visitor-keys": Set {
+    "3.4.",
+  },
+  "espree": Set {
+    "9.6.",
+  },
+  "esprima": Set {
+    "4.0.",
+  },
+  "esquery": Set {
+    "1.5.",
+  },
+  "esrecurse": Set {
+    "4.3.",
+  },
+  "estraverse": Set {
+    "5.3.",
+  },
+  "estree-util-is-identifier-name": Set {
+    "3.0.",
+  },
+  "esutils": Set {
+    "2.0.",
+  },
+  "eth-block-tracker": Set {
+    "6.1.",
+  },
+  "eth-json-rpc-filters": Set {
+    "5.1.",
+  },
+  "eth-query": Set {
+    "2.1.",
+  },
+  "eth-rpc-errors": Set {
+    "4.0.",
+  },
+  "event-target-shim": Set {
+    "5.0.",
+  },
+  "eventemitter3": Set {
+    "4.0.",
+    "5.0.",
+  },
+  "events": Set {
+    "3.3.",
+  },
+  "execa": Set {
+    "5.1.",
+    "8.0.",
+  },
+  "existy": Set {
+    "1.0.",
+  },
+  "expand-template": Set {
+    "2.0.",
+  },
+  "exponential-backoff": Set {
+    "3.1.",
+  },
+  "expr-eval": Set {
+    "2.0.",
+  },
+  "extend": Set {
+    "3.0.",
+  },
+  "eyes": Set {
+    "0.1.",
+  },
+  "facepaint": Set {
+    "1.2.",
+  },
+  "fast-average-color": Set {
+    "9.4.",
+  },
+  "fast-deep-equal": Set {
+    "3.1.",
+  },
+  "fast-equals": Set {
+    "5.0.",
+  },
+  "fast-fifo": Set {
+    "1.3.",
+  },
+  "fast-glob": Set {
+    "3.3.",
+  },
+  "fast-json-stable-stringify": Set {
+    "2.1.",
+  },
+  "fast-levenshtein": Set {
+    "2.0.",
+  },
+  "fast-redact": Set {
+    "3.3.",
+  },
+  "fast-safe-stringify": Set {
+    "2.1.",
+  },
+  "fast-stable-stringify": Set {
+    "1.0.",
+  },
+  "fastq": Set {
+    "1.16.",
+  },
+  "fault": Set {
+    "2.0.",
+  },
+  "file-entry-cache": Set {
+    "6.0.",
+    "8.0.",
+  },
+  "file-selector": Set {
+    "0.6.",
+  },
+  "file-uri-to-path": Set {
+    "1.0.",
+  },
+  "fill-range": Set {
+    "7.0.",
+  },
+  "filter-obj": Set {
+    "1.1.",
+  },
+  "find-root": Set {
+    "1.1.",
+  },
+  "find-up": Set {
+    "4.1.",
+    "5.0.",
+  },
+  "find-up-simple": Set {
+    "1.0.",
+  },
+  "flat": Set {
+    "5.0.",
+  },
+  "flat-cache": Set {
+    "3.2.",
+    "4.0.",
+  },
+  "flatted": Set {
+    "3.2.",
+  },
+  "flv.js": Set {
+    "1.6.",
+  },
+  "follow-redirects": Set {
+    "1.15.",
+  },
+  "for-each": Set {
+    "0.3.",
+  },
+  "foreground-child": Set {
+    "3.1.",
+  },
+  "form-data": Set {
+    "4.0.",
+  },
+  "form-data-encoder": Set {
+    "1.7.",
+  },
+  "format": Set {
+    "0.2.",
+  },
+  "formdata-node": Set {
+    "4.4.",
+  },
+  "fraction.js": Set {
+    "4.3.",
+  },
+  "framer-motion": Set {
+    "11.0.5",
+  },
+  "fs-constants": Set {
+    "1.0.",
+  },
+  "fs-extra": Set {
+    "10.1.",
+  },
+  "fs.realpath": Set {
+    "1.0.",
+  },
+  "fsevents": Set {
+    "2.3.",
+  },
+  "function-bind": Set {
+    "1.1.",
+  },
+  "function.prototype.name": Set {
+    "1.1.",
+  },
+  "functions-have-names": Set {
+    "1.2.",
+  },
+  "gensequence": Set {
+    "6.0.",
+  },
+  "gensync": Set {
+    "1.0.0-beta.",
+  },
+  "get-caller-file": Set {
+    "2.0.",
+  },
+  "get-east-asian-width": Set {
+    "1.2.",
+  },
+  "get-intrinsic": Set {
+    "1.2.",
+  },
+  "get-nonce": Set {
+    "1.0.",
+  },
+  "get-port-please": Set {
+    "3.1.",
+  },
+  "get-stdin": Set {
+    "9.0.",
+  },
+  "get-stream": Set {
+    "6.0.",
+    "8.0.",
+  },
+  "get-symbol-description": Set {
+    "1.0.",
+  },
+  "get-tsconfig": Set {
+    "4.7.",
+  },
+  "github-from-package": Set {
+    "0.0.",
+  },
+  "github-slugger": Set {
+    "2.0.",
+  },
+  "glob": Set {
+    "10.3.1",
+    "7.1.",
+    "7.2.",
+  },
+  "glob-parent": Set {
+    "5.1.",
+    "6.0.",
+  },
+  "global-directory": Set {
+    "4.0.",
+  },
+  "globals": Set {
+    "11.12.",
+    "13.24.",
+  },
+  "globalthis": Set {
+    "1.0.",
+  },
+  "globby": Set {
+    "11.1.",
+  },
+  "goober": Set {
+    "2.1.13",
+  },
+  "gopd": Set {
+    "1.0.",
+  },
+  "gpt-tokenizer": Set {
+    "2.1.",
+  },
+  "graceful-fs": Set {
+    "4.2.1",
+  },
+  "graphemer": Set {
+    "1.4.",
+  },
+  "gzip-size": Set {
+    "6.0.",
+  },
+  "h3": Set {
+    "1.9.",
+  },
+  "has-bigints": Set {
+    "1.0.",
+  },
+  "has-flag": Set {
+    "3.0.",
+    "4.0.",
+  },
+  "has-own-prop": Set {
+    "2.0.",
+  },
+  "has-property-descriptors": Set {
+    "1.0.",
+  },
+  "has-proto": Set {
+    "1.0.",
+  },
+  "has-symbols": Set {
+    "1.0.",
+  },
+  "has-tostringtag": Set {
+    "1.0.",
+  },
+  "hash.js": Set {
+    "1.1.",
+  },
+  "hasown": Set {
+    "2.0.",
+  },
+  "hast-util-excerpt": Set {
+    "2.0.",
+  },
+  "hast-util-from-dom": Set {
+    "5.0.",
+  },
+  "hast-util-from-html": Set {
+    "2.0.",
+  },
+  "hast-util-from-html-isomorphic": Set {
+    "2.0.",
+  },
+  "hast-util-from-parse5": Set {
+    "8.0.",
+  },
+  "hast-util-has-property": Set {
+    "3.0.",
+  },
+  "hast-util-heading-rank": Set {
+    "3.0.",
+  },
+  "hast-util-is-element": Set {
+    "3.0.",
+  },
+  "hast-util-parse-selector": Set {
+    "3.1.",
+    "4.0.",
+  },
+  "hast-util-raw": Set {
+    "9.0.",
+  },
+  "hast-util-sanitize": Set {
+    "5.0.",
+  },
+  "hast-util-select": Set {
+    "6.0.",
+  },
+  "hast-util-to-html": Set {
+    "9.0.",
+  },
+  "hast-util-to-jsx-runtime": Set {
+    "2.3.",
+  },
+  "hast-util-to-parse5": Set {
+    "8.0.",
+  },
+  "hast-util-to-string": Set {
+    "3.0.",
+  },
+  "hast-util-to-text": Set {
+    "4.0.",
+  },
+  "hast-util-truncate": Set {
+    "2.0.",
+  },
+  "hast-util-whitespace": Set {
+    "3.0.",
+  },
+  "hastscript": Set {
+    "7.2.",
+    "8.0.",
+    "9.0.",
+  },
+  "heap": Set {
+    "0.2.",
+  },
+  "hey-listen": Set {
+    "1.0.",
+  },
+  "hoist-non-react-statics": Set {
+    "3.3.",
+  },
+  "html-encoding-sniffer": Set {
+    "4.0.",
+  },
+  "html-escaper": Set {
+    "2.0.",
+  },
+  "html-void-elements": Set {
+    "3.0.",
+  },
+  "htmlparser2": Set {
+    "8.0.",
+  },
+  "http-proxy-agent": Set {
+    "7.0.",
+  },
+  "http-shutdown": Set {
+    "1.2.",
+  },
+  "https-proxy-agent": Set {
+    "7.0.",
+  },
+  "human-signals": Set {
+    "2.1.",
+    "5.0.",
+  },
+  "humanize-ms": Set {
+    "1.2.",
+  },
+  "husky": Set {
+    "9.0.1",
+  },
+  "iconv-lite": Set {
+    "0.6.",
+  },
+  "idb-keyval": Set {
+    "6.2.",
+  },
+  "ieee754": Set {
+    "1.2.",
+  },
+  "ignore": Set {
+    "5.3.",
+  },
+  "image-size": Set {
+    "1.1.",
+  },
+  "immer": Set {
+    "10.0.",
+  },
+  "import-fresh": Set {
+    "3.3.",
+  },
+  "import-in-the-middle": Set {
+    "1.7.",
+  },
+  "import-meta-resolve": Set {
+    "4.0.",
+  },
+  "imurmurhash": Set {
+    "0.1.",
+  },
+  "inflight": Set {
+    "1.0.",
+  },
+  "inherits": Set {
+    "2.0.",
+  },
+  "ini": Set {
+    "1.3.",
+    "4.1.",
+  },
+  "inline-style-parser": Set {
+    "0.2.",
+  },
+  "internal-slot": Set {
+    "1.0.",
+  },
+  "internmap": Set {
+    "1.0.",
+    "2.0.",
+  },
+  "intersection-observer": Set {
+    "0.12.",
+  },
+  "intl-messageformat": Set {
+    "9.13.",
+  },
+  "invariant": Set {
+    "2.2.",
+  },
+  "ioredis": Set {
+    "5.3.",
+  },
+  "iron-webcrypto": Set {
+    "1.0.",
+  },
+  "is-alphabetical": Set {
+    "2.0.",
+  },
+  "is-alphanumerical": Set {
+    "2.0.",
+  },
+  "is-any-array": Set {
+    "2.0.",
+  },
+  "is-arguments": Set {
+    "1.1.",
+  },
+  "is-array-buffer": Set {
+    "3.0.",
+  },
+  "is-arrayish": Set {
+    "0.2.",
+    "0.3.",
+  },
+  "is-async-function": Set {
+    "2.0.",
+  },
+  "is-bigint": Set {
+    "1.0.",
+  },
+  "is-binary-path": Set {
+    "2.1.",
+  },
+  "is-boolean-object": Set {
+    "1.1.",
+  },
+  "is-buffer": Set {
+    "1.1.",
+  },
+  "is-callable": Set {
+    "1.2.",
+  },
+  "is-core-module": Set {
+    "2.13.",
+  },
+  "is-date-object": Set {
+    "1.0.",
+  },
+  "is-decimal": Set {
+    "2.0.",
+  },
+  "is-docker": Set {
+    "2.2.",
+  },
+  "is-extglob": Set {
+    "2.1.",
+  },
+  "is-finalizationregistry": Set {
+    "1.0.",
+  },
+  "is-fullwidth-code-point": Set {
+    "3.0.",
+    "4.0.",
+    "5.0.",
+  },
+  "is-generator-function": Set {
+    "1.0.1",
+  },
+  "is-glob": Set {
+    "4.0.",
+  },
+  "is-hexadecimal": Set {
+    "2.0.",
+  },
+  "is-map": Set {
+    "2.0.",
+  },
+  "is-negative-zero": Set {
+    "2.0.",
+  },
+  "is-number": Set {
+    "7.0.",
+  },
+  "is-number-object": Set {
+    "1.0.",
+  },
+  "is-obj": Set {
+    "2.0.",
+  },
+  "is-path-inside": Set {
+    "3.0.",
+  },
+  "is-plain-obj": Set {
+    "4.1.",
+  },
+  "is-plain-object": Set {
+    "5.0.",
+  },
+  "is-potential-custom-element-name": Set {
+    "1.0.",
+  },
+  "is-regex": Set {
+    "1.1.",
+  },
+  "is-set": Set {
+    "2.0.",
+  },
+  "is-shared-array-buffer": Set {
+    "1.0.",
+  },
+  "is-stream": Set {
+    "2.0.",
+    "3.0.",
+  },
+  "is-string": Set {
+    "1.0.",
+  },
+  "is-symbol": Set {
+    "1.0.",
+  },
+  "is-typed-array": Set {
+    "1.1.1",
+  },
+  "is-typedarray": Set {
+    "1.0.",
+  },
+  "is-weakmap": Set {
+    "2.0.",
+  },
+  "is-weakref": Set {
+    "1.0.",
+  },
+  "is-weakset": Set {
+    "2.0.",
+  },
+  "is-wsl": Set {
+    "2.2.",
+  },
+  "isarray": Set {
+    "2.0.",
+  },
+  "isexe": Set {
+    "2.0.",
+  },
+  "isomorphic-dompurify": Set {
+    "2.3.",
+  },
+  "isomorphic-unfetch": Set {
+    "3.1.",
+  },
+  "isomorphic-ws": Set {
+    "4.0.1",
+  },
+  "isows": Set {
+    "1.0.3",
+  },
+  "iterator.prototype": Set {
+    "1.1.",
+  },
+  "jackspeak": Set {
+    "2.3.",
+  },
+  "jayson": Set {
+    "4.1.",
+  },
+  "jiti": Set {
+    "1.21.",
+  },
+  "js-cookie": Set {
+    "2.2.",
+  },
+  "js-tiktoken": Set {
+    "1.0.1",
+  },
+  "js-tokens": Set {
+    "4.0.",
+  },
+  "js-yaml": Set {
+    "4.1.",
+  },
+  "jsdom": Set {
+    "24.0.",
+  },
+  "jsesc": Set {
+    "2.5.",
+  },
+  "json-buffer": Set {
+    "3.0.",
+  },
+  "json-parse-even-better-errors": Set {
+    "2.3.",
+  },
+  "json-rpc-engine": Set {
+    "6.1.",
+  },
+  "json-rpc-random-id": Set {
+    "1.0.",
+  },
+  "json-schema-traverse": Set {
+    "0.4.",
+  },
+  "json-stable-stringify-without-jsonify": Set {
+    "1.0.",
+  },
+  "json-stringify-safe": Set {
+    "5.0.",
+  },
+  "json5": Set {
+    "1.0.",
+    "2.2.",
+  },
+  "jsonc-parser": Set {
+    "3.2.",
+  },
+  "jsonfeed-to-rss": Set {
+    "3.0.",
+  },
+  "jsonfile": Set {
+    "6.1.",
+  },
+  "jsonparse": Set {
+    "1.3.",
+  },
+  "jsonpointer": Set {
+    "5.0.",
+  },
+  "jsx-ast-utils": Set {
+    "3.3.",
+  },
+  "katex": Set {
+    "0.16.",
+  },
+  "keccak": Set {
+    "3.0.",
+  },
+  "keyv": Set {
+    "4.5.",
+  },
+  "keyvaluestorage-interface": Set {
+    "1.0.",
+  },
+  "khroma": Set {
+    "2.1.",
+  },
+  "kleur": Set {
+    "4.1.",
+  },
+  "kolorist": Set {
+    "1.8.",
+  },
+  "langchain": Set {
+    "0.1.20",
+  },
+  "langchainhub": Set {
+    "0.0.",
+  },
+  "langsmith": Set {
+    "0.1.",
+  },
+  "language-subtag-registry": Set {
+    "0.3.2",
+  },
+  "language-tags": Set {
+    "1.0.",
+  },
+  "layout-base": Set {
+    "1.0.",
+  },
+  "levn": Set {
+    "0.4.",
+  },
+  "lilconfig": Set {
+    "2.1.",
+    "3.0.",
+  },
+  "lines-and-columns": Set {
+    "1.2.",
+  },
+  "lint-staged": Set {
+    "15.2.",
+  },
+  "listhen": Set {
+    "1.5.",
+  },
+  "listr2": Set {
+    "8.0.",
+  },
+  "lit": Set {
+    "2.8.",
+  },
+  "lit-element": Set {
+    "3.3.",
+  },
+  "lit-html": Set {
+    "2.8.",
+  },
+  "local-pkg": Set {
+    "0.5.",
+  },
+  "locate-path": Set {
+    "5.0.",
+    "6.0.",
+  },
+  "lodash": Set {
+    "4.17.2",
+  },
+  "lodash-es": Set {
+    "4.17.2",
+  },
+  "lodash.camelcase": Set {
+    "4.3.",
+  },
+  "lodash.compact": Set {
+    "3.0.",
+  },
+  "lodash.debounce": Set {
+    "4.0.",
+  },
+  "lodash.defaults": Set {
+    "4.2.",
+  },
+  "lodash.get": Set {
+    "4.4.",
+  },
+  "lodash.isarguments": Set {
+    "3.1.",
+  },
+  "lodash.isempty": Set {
+    "4.4.",
+  },
+  "lodash.isequal": Set {
+    "4.5.",
+  },
+  "lodash.isplainobject": Set {
+    "4.0.",
+  },
+  "lodash.merge": Set {
+    "4.6.",
+  },
+  "lodash.transform": Set {
+    "4.6.",
+  },
+  "log-update": Set {
+    "6.0.",
+  },
+  "long": Set {
+    "5.2.",
+  },
+  "longest-streak": Set {
+    "3.1.",
+  },
+  "loose-envify": Set {
+    "1.4.",
+  },
+  "lottie-react": Set {
+    "2.4.0",
+  },
+  "lottie-web": Set {
+    "5.12.",
+  },
+  "lru-cache": Set {
+    "10.1.",
+    "5.1.",
+    "6.0.",
+  },
+  "markdown-table": Set {
+    "3.0.",
+  },
+  "md5": Set {
+    "2.3.",
+  },
+  "mdast-util-directive": Set {
+    "3.0.",
+  },
+  "mdast-util-find-and-replace": Set {
+    "3.0.",
+  },
+  "mdast-util-from-markdown": Set {
+    "1.3.",
+    "2.0.",
+  },
+  "mdast-util-frontmatter": Set {
+    "2.0.",
+  },
+  "mdast-util-gfm": Set {
+    "3.0.",
+  },
+  "mdast-util-gfm-autolink-literal": Set {
+    "2.0.",
+  },
+  "mdast-util-gfm-footnote": Set {
+    "2.0.",
+  },
+  "mdast-util-gfm-strikethrough": Set {
+    "2.0.",
+  },
+  "mdast-util-gfm-table": Set {
+    "2.0.",
+  },
+  "mdast-util-gfm-task-list-item": Set {
+    "2.0.",
+  },
+  "mdast-util-math": Set {
+    "3.0.",
+  },
+  "mdast-util-mdx-expression": Set {
+    "2.0.",
+  },
+  "mdast-util-mdx-jsx": Set {
+    "3.0.",
+  },
+  "mdast-util-mdxjs-esm": Set {
+    "2.0.",
+  },
+  "mdast-util-newline-to-break": Set {
+    "2.0.",
+  },
+  "mdast-util-phrasing": Set {
+    "4.0.",
+  },
+  "mdast-util-to-hast": Set {
+    "13.1.",
+  },
+  "mdast-util-to-markdown": Set {
+    "2.1.",
+  },
+  "mdast-util-to-string": Set {
+    "3.2.",
+    "4.0.",
+  },
+  "mdast-util-toc": Set {
+    "7.0.",
+  },
+  "medium-zoom": Set {
+    "1.1.",
+  },
+  "merge-stream": Set {
+    "2.0.",
+  },
+  "merge2": Set {
+    "1.4.",
+  },
+  "mermaid": Set {
+    "10.8.",
+  },
+  "micromark": Set {
+    "3.2.",
+    "4.0.",
+  },
+  "micromark-core-commonmark": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-extension-directive": Set {
+    "3.0.",
+  },
+  "micromark-extension-frontmatter": Set {
+    "2.0.",
+  },
+  "micromark-extension-gfm": Set {
+    "3.0.",
+  },
+  "micromark-extension-gfm-autolink-literal": Set {
+    "2.0.",
+  },
+  "micromark-extension-gfm-footnote": Set {
+    "2.0.",
+  },
+  "micromark-extension-gfm-strikethrough": Set {
+    "2.0.",
+  },
+  "micromark-extension-gfm-table": Set {
+    "2.0.",
+  },
+  "micromark-extension-gfm-tagfilter": Set {
+    "2.0.",
+  },
+  "micromark-extension-gfm-task-list-item": Set {
+    "2.0.",
+  },
+  "micromark-extension-math": Set {
+    "3.0.",
+  },
+  "micromark-factory-destination": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-factory-label": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-factory-space": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-factory-title": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-factory-whitespace": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-character": Set {
+    "1.2.",
+    "2.0.",
+  },
+  "micromark-util-chunked": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-classify-character": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-combine-extensions": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-decode-numeric-character-reference": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-decode-string": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-encode": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-html-tag-name": Set {
+    "1.2.",
+    "2.0.",
+  },
+  "micromark-util-normalize-identifier": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-resolve-all": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-sanitize-uri": Set {
+    "1.2.",
+    "2.0.",
+  },
+  "micromark-util-subtokenize": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-symbol": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromark-util-types": Set {
+    "1.1.",
+    "2.0.",
+  },
+  "micromatch": Set {
+    "4.0.",
+  },
+  "mime": Set {
+    "3.0.",
+  },
+  "mime-db": Set {
+    "1.52.",
+  },
+  "mime-types": Set {
+    "2.1.3",
+  },
+  "mimic-fn": Set {
+    "2.1.",
+    "4.0.",
+  },
+  "mimic-response": Set {
+    "3.1.",
+  },
+  "minimalistic-assert": Set {
+    "1.0.",
+  },
+  "minimatch": Set {
+    "3.1.",
+    "9.0.",
+  },
+  "minimist": Set {
+    "1.2.",
+  },
+  "minipass": Set {
+    "7.0.",
+  },
+  "mkdirp-classic": Set {
+    "0.5.",
+  },
+  "ml-array-mean": Set {
+    "1.1.",
+  },
+  "ml-array-sum": Set {
+    "1.1.",
+  },
+  "ml-distance": Set {
+    "4.0.",
+  },
+  "ml-distance-euclidean": Set {
+    "2.0.",
+  },
+  "ml-tree-similarity": Set {
+    "1.0.",
+  },
+  "mlly": Set {
+    "1.5.",
+  },
+  "mnemonist": Set {
+    "0.39.",
+  },
+  "module-details-from-path": Set {
+    "1.0.",
+  },
+  "monaco-editor": Set {
+    "0.46.",
+  },
+  "motion": Set {
+    "10.16.",
+  },
+  "mri": Set {
+    "1.2.",
+  },
+  "mrmime": Set {
+    "2.0.",
+  },
+  "ms": Set {
+    "2.1.",
+  },
+  "multiformats": Set {
+    "9.9.",
+  },
+  "mz": Set {
+    "2.7.",
+  },
+  "nanoid": Set {
+    "3.3.",
+    "5.0.",
+  },
+  "napi-build-utils": Set {
+    "1.0.",
+  },
+  "napi-wasm": Set {
+    "1.1.",
+  },
+  "natural-compare": Set {
+    "1.4.",
+  },
+  "negotiator": Set {
+    "0.6.",
+  },
+  "next": Set {
+    "14.1.0",
+  },
+  "next-intl": Set {
+    "3.8.0",
+  },
+  "next-themes": Set {
+    "0.2.1",
+  },
+  "node-abi": Set {
+    "3.52.",
+  },
+  "node-addon-api": Set {
+    "2.0.",
+    "6.1.",
+    "7.0.",
+  },
+  "node-domexception": Set {
+    "1.0.",
+  },
+  "node-emoji": Set {
+    "2.1.",
+  },
+  "node-fetch": Set {
+    "2.7.",
+  },
+  "node-fetch-native": Set {
+    "1.4.",
+  },
+  "node-forge": Set {
+    "1.3.",
+  },
+  "node-gyp-build": Set {
+    "4.7.",
+  },
+  "node-id3": Set {
+    "0.2.",
+  },
+  "node-releases": Set {
+    "2.0.1",
+  },
+  "non-layered-tidy-tree-layout": Set {
+    "2.0.",
+  },
+  "normalize-path": Set {
+    "3.0.",
+  },
+  "normalize-range": Set {
+    "0.1.",
+  },
+  "not": Set {
+    "0.1.",
+  },
+  "npm-run-path": Set {
+    "4.0.",
+    "5.2.",
+  },
+  "nth-check": Set {
+    "2.1.",
+  },
+  "num-sort": Set {
+    "2.1.",
+  },
+  "nwsapi": Set {
+    "2.2.",
+  },
+  "object-assign": Set {
+    "4.1.",
+  },
+  "object-hash": Set {
+    "3.0.",
+  },
+  "object-inspect": Set {
+    "1.13.",
+  },
+  "object-keys": Set {
+    "1.1.",
+  },
+  "object.assign": Set {
+    "4.1.",
+  },
+  "object.entries": Set {
+    "1.1.",
+  },
+  "object.fromentries": Set {
+    "2.0.",
+  },
+  "object.groupby": Set {
+    "1.0.",
+  },
+  "object.hasown": Set {
+    "1.1.",
+  },
+  "object.values": Set {
+    "1.1.",
+  },
+  "obliterator": Set {
+    "2.0.",
+  },
+  "ofetch": Set {
+    "1.3.",
+  },
+  "on-exit-leak-free": Set {
+    "0.2.",
+  },
+  "once": Set {
+    "1.4.",
+  },
+  "onetime": Set {
+    "5.1.",
+    "6.0.",
+  },
+  "open-graph-scraper": Set {
+    "6.4.",
+  },
+  "openai": Set {
+    "4.28.",
+  },
+  "openapi-types": Set {
+    "12.1.",
+  },
+  "opener": Set {
+    "1.5.",
+  },
+  "optionator": Set {
+    "0.9.",
+  },
+  "p-finally": Set {
+    "1.0.",
+  },
+  "p-limit": Set {
+    "2.3.",
+    "3.1.",
+  },
+  "p-locate": Set {
+    "4.1.",
+    "5.0.",
+  },
+  "p-queue": Set {
+    "6.6.",
+  },
+  "p-retry": Set {
+    "4.6.",
+  },
+  "p-timeout": Set {
+    "3.2.",
+  },
+  "p-try": Set {
+    "2.2.",
+  },
+  "pangu": Set {
+    "4.0.",
+  },
+  "parent-module": Set {
+    "1.0.",
+    "2.0.",
+  },
+  "parse-author": Set {
+    "2.0.",
+  },
+  "parse-entities": Set {
+    "4.0.",
+  },
+  "parse-json": Set {
+    "5.2.",
+  },
+  "parse-numeric-range": Set {
+    "1.3.",
+  },
+  "parse5": Set {
+    "7.1.",
+  },
+  "parse5-htmlparser2-tree-adapter": Set {
+    "7.0.",
+  },
+  "path-exists": Set {
+    "4.0.",
+  },
+  "path-is-absolute": Set {
+    "1.0.",
+  },
+  "path-key": Set {
+    "3.1.",
+    "4.0.",
+  },
+  "path-parse": Set {
+    "1.0.",
+  },
+  "path-scurry": Set {
+    "1.10.",
+  },
+  "path-to-regexp": Set {
+    "6.2.",
+  },
+  "path-type": Set {
+    "4.0.",
+  },
+  "pathe": Set {
+    "1.1.",
+  },
+  "picocolors": Set {
+    "1.0.",
+  },
+  "picomatch": Set {
+    "2.3.",
+  },
+  "pidtree": Set {
+    "0.6.",
+  },
+  "pify": Set {
+    "2.3.",
+    "3.0.",
+    "5.0.",
+  },
+  "pino": Set {
+    "7.11.",
+  },
+  "pino-abstract-transport": Set {
+    "0.5.",
+  },
+  "pino-std-serializers": Set {
+    "4.0.",
+  },
+  "pinyin-pro": Set {
+    "3.19.",
+  },
+  "pirates": Set {
+    "4.0.",
+  },
+  "pkg-types": Set {
+    "1.0.",
+  },
+  "plaiceholder": Set {
+    "3.0.0",
+  },
+  "pngjs": Set {
+    "5.0.",
+  },
+  "podcast-categories": Set {
+    "2.0.",
+  },
+  "postcss": Set {
+    "8.4.3",
+  },
+  "postcss-import": Set {
+    "15.1.0",
+    "16.0.1",
+  },
+  "postcss-js": Set {
+    "4.0.1",
+  },
+  "postcss-load-config": Set {
+    "4.0.2",
+  },
+  "postcss-mixins": Set {
+    "9.0.4",
+  },
+  "postcss-nested": Set {
+    "6.0.1",
+  },
+  "postcss-preset-mantine": Set {
+    "1.13.0",
+  },
+  "postcss-prune-var": Set {
+    "1.1.",
+  },
+  "postcss-selector-parser": Set {
+    "6.0.1",
+  },
+  "postcss-simple-vars": Set {
+    "7.0.1",
+  },
+  "postcss-value-parser": Set {
+    "4.2.",
+  },
+  "preact": Set {
+    "10.19.",
+  },
+  "prebuild-install": Set {
+    "7.1.",
+  },
+  "prelude-ls": Set {
+    "1.2.",
+  },
+  "prettier": Set {
+    "3.2.",
+  },
+  "prettier-package-json": Set {
+    "2.8.",
+  },
+  "pretty-bytes": Set {
+    "6.1.",
+  },
+  "prisma": Set {
+    "5.9.",
+  },
+  "process-warning": Set {
+    "1.0.",
+  },
+  "promise-polyfill": Set {
+    "7.1.",
+    "8.3.",
+  },
+  "prop-types": Set {
+    "15.8.",
+  },
+  "property-information": Set {
+    "6.4.",
+  },
+  "protobufjs": Set {
+    "7.2.",
+  },
+  "proxy-compare": Set {
+    "2.5.",
+    "2.6.",
+  },
+  "proxy-from-env": Set {
+    "1.1.",
+  },
+  "psl": Set {
+    "1.9.",
+  },
+  "pump": Set {
+    "3.0.",
+  },
+  "punycode": Set {
+    "2.3.",
+  },
+  "qier-progress": Set {
+    "1.0.",
+  },
+  "qrcode": Set {
+    "1.5.",
+  },
+  "qrcode.react": Set {
+    "3.1.0",
+  },
+  "qs": Set {
+    "6.11.",
+  },
+  "query-string": Set {
+    "6.14.",
+    "7.1.",
+  },
+  "querystringify": Set {
+    "2.2.",
+  },
+  "queue": Set {
+    "6.0.",
+  },
+  "queue-microtask": Set {
+    "1.2.",
+  },
+  "queue-tick": Set {
+    "1.0.",
+  },
+  "quick-format-unescaped": Set {
+    "4.0.",
+  },
+  "radix3": Set {
+    "1.1.",
+  },
+  "randombytes": Set {
+    "2.1.",
+  },
+  "rc": Set {
+    "1.2.",
+  },
+  "rc-dplayer": Set {
+    "1.0.0",
+  },
+  "react": Set {
+    "18.2.",
+  },
+  "react-async-script": Set {
+    "1.2.0",
+  },
+  "react-dom": Set {
+    "18.2.0",
+  },
+  "react-dropzone": Set {
+    "14.2.3",
+  },
+  "react-fast-compare": Set {
+    "3.2.",
+  },
+  "react-google-recaptcha": Set {
+    "3.1.0",
+  },
+  "react-hook-form": Set {
+    "7.50.1",
+  },
+  "react-hot-toast": Set {
+    "2.4.1",
+  },
+  "react-intersection-observer": Set {
+    "9.8.0",
+  },
+  "react-is": Set {
+    "16.13.",
+  },
+  "react-number-format": Set {
+    "5.3.1",
+  },
+  "react-parallax-tilt": Set {
+    "1.7.212",
+  },
+  "react-popper": Set {
+    "2.3.0",
+  },
+  "react-remove-scroll": Set {
+    "2.5.7",
+  },
+  "react-remove-scroll-bar": Set {
+    "2.3.5",
+  },
+  "react-sortablejs": Set {
+    "6.1.4",
+  },
+  "react-string-replace": Set {
+    "1.1.",
+  },
+  "react-style-singleton": Set {
+    "2.2.1",
+  },
+  "react-textarea-autosize": Set {
+    "8.3.4",
+    "8.5.3",
+  },
+  "react-transition-group": Set {
+    "4.4.2",
+    "4.4.5",
+  },
+  "react-tweet": Set {
+    "3.2.0",
+  },
+  "react-virtuoso": Set {
+    "4.7.0",
+  },
+  "read-cache": Set {
+    "1.0.",
+  },
+  "readable-stream": Set {
+    "3.6.",
+  },
+  "readdirp": Set {
+    "3.6.",
+  },
+  "real-require": Set {
+    "0.1.",
+  },
+  "redis-errors": Set {
+    "1.2.",
+  },
+  "redis-parser": Set {
+    "3.0.",
+  },
+  "reflect.getprototypeof": Set {
+    "1.0.",
+  },
+  "refractor": Set {
+    "4.8.",
+  },
+  "regenerator-runtime": Set {
+    "0.14.",
+  },
+  "regexp.prototype.flags": Set {
+    "1.5.",
+  },
+  "rehype-autolink-headings": Set {
+    "7.1.",
+  },
+  "rehype-infer-description-meta": Set {
+    "2.0.",
+  },
+  "rehype-katex": Set {
+    "7.0.",
+  },
+  "rehype-parse": Set {
+    "9.0.",
+  },
+  "rehype-prism-plus": Set {
+    "2.0.",
+  },
+  "rehype-raw": Set {
+    "7.0.",
+  },
+  "rehype-sanitize": Set {
+    "6.0.",
+  },
+  "rehype-slug": Set {
+    "6.0.",
+  },
+  "remark-breaks": Set {
+    "4.0.",
+  },
+  "remark-directive": Set {
+    "3.0.",
+  },
+  "remark-directive-rehype": Set {
+    "0.4.",
+  },
+  "remark-emoji": Set {
+    "4.0.",
+  },
+  "remark-frontmatter": Set {
+    "5.0.",
+  },
+  "remark-gfm": Set {
+    "4.0.",
+  },
+  "remark-github-alerts": Set {
+    "0.0.4",
+  },
+  "remark-math": Set {
+    "6.0.",
+  },
+  "remark-parse": Set {
+    "11.0.",
+  },
+  "remark-rehype": Set {
+    "11.1.",
+  },
+  "remark-stringify": Set {
+    "11.0.",
+  },
+  "remove-markdown": Set {
+    "0.5.",
+  },
+  "repeat-string": Set {
+    "1.6.",
+  },
+  "require-directory": Set {
+    "2.1.",
+  },
+  "require-in-the-middle": Set {
+    "7.2.",
+  },
+  "require-main-filename": Set {
+    "2.0.",
+  },
+  "requires-port": Set {
+    "1.0.",
+  },
+  "resize-observer-polyfill": Set {
+    "1.5.",
+  },
+  "resolve": Set {
+    "1.22.",
+    "2.0.0-next.",
+  },
+  "resolve-from": Set {
+    "4.0.",
+    "5.0.",
+  },
+  "resolve-pkg-maps": Set {
+    "1.0.",
+  },
+  "restore-cursor": Set {
+    "4.0.",
+  },
+  "retry": Set {
+    "0.13.",
+  },
+  "reusify": Set {
+    "1.0.",
+  },
+  "rfc4648": Set {
+    "1.5.",
+  },
+  "rfdc": Set {
+    "1.3.",
+  },
+  "rimraf": Set {
+    "3.0.",
+    "5.0.",
+  },
+  "robust-predicates": Set {
+    "3.0.",
+  },
+  "rpc-websockets": Set {
+    "7.9.",
+  },
+  "rrweb-cssom": Set {
+    "0.6.",
+  },
+  "rss-parser": Set {
+    "3.13.",
+  },
+  "run-parallel": Set {
+    "1.2.",
+  },
+  "rw": Set {
+    "1.3.",
+  },
+  "rxjs": Set {
+    "6.6.",
+    "7.8.",
+  },
+  "sade": Set {
+    "1.8.",
+  },
+  "safe-array-concat": Set {
+    "1.0.",
+  },
+  "safe-buffer": Set {
+    "5.2.",
+  },
+  "safe-regex-test": Set {
+    "1.0.",
+  },
+  "safe-stable-stringify": Set {
+    "2.4.",
+  },
+  "safer-buffer": Set {
+    "2.1.",
+  },
+  "sax": Set {
+    "1.3.",
+  },
+  "saxes": Set {
+    "6.0.",
+  },
+  "scheduler": Set {
+    "0.23.",
+  },
+  "screenfull": Set {
+    "5.2.",
+  },
+  "semver": Set {
+    "6.3.",
+    "7.6.",
+  },
+  "sentence-splitter": Set {
+    "4.2.",
+  },
+  "serialize-javascript": Set {
+    "6.0.",
+  },
+  "set-blocking": Set {
+    "2.0.",
+  },
+  "set-function-length": Set {
+    "1.1.",
+  },
+  "set-function-name": Set {
+    "2.0.",
+  },
+  "sha.js": Set {
+    "2.4.1",
+  },
+  "sharp": Set {
+    "0.32.",
+  },
+  "shebang-command": Set {
+    "2.0.",
+  },
+  "shebang-regex": Set {
+    "3.0.",
+  },
+  "shimmer": Set {
+    "1.2.",
+  },
+  "side-channel": Set {
+    "1.0.",
+  },
+  "signal-exit": Set {
+    "3.0.",
+    "4.1.",
+  },
+  "simple-concat": Set {
+    "1.0.",
+  },
+  "simple-get": Set {
+    "4.0.",
+  },
+  "simple-swizzle": Set {
+    "0.2.",
+  },
+  "sirv": Set {
+    "2.0.",
+  },
+  "skin-tone": Set {
+    "2.0.",
+  },
+  "slash": Set {
+    "3.0.",
+  },
+  "slice-ansi": Set {
+    "5.0.",
+    "7.1.",
+  },
+  "smoothscroll": Set {
+    "0.4.",
+  },
+  "sonic-boom": Set {
+    "2.8.",
+  },
+  "sort-object-keys": Set {
+    "1.1.",
+  },
+  "sort-order": Set {
+    "1.0.",
+  },
+  "sortablejs": Set {
+    "1.15.",
+  },
+  "source-map": Set {
+    "0.5.",
+  },
+  "source-map-js": Set {
+    "1.0.",
+  },
+  "space-separated-tokens": Set {
+    "2.0.",
+  },
+  "split-on-first": Set {
+    "1.1.",
+  },
+  "split2": Set {
+    "4.2.",
+  },
+  "standard-as-callback": Set {
+    "2.1.",
+  },
+  "state-local": Set {
+    "1.0.",
+  },
+  "std-env": Set {
+    "3.6.",
+  },
+  "stream-browserify": Set {
+    "3.0.",
+  },
+  "stream-shift": Set {
+    "1.0.",
+  },
+  "streamsearch": Set {
+    "1.1.",
+  },
+  "streamx": Set {
+    "2.15.",
+  },
+  "strict-uri-encode": Set {
+    "2.0.",
+  },
+  "string-argv": Set {
+    "0.3.",
+  },
+  "string-width": Set {
+    "4.2.",
+    "5.1.",
+    "7.1.",
+  },
+  "string.prototype.matchall": Set {
+    "4.0.1",
+  },
+  "string.prototype.trim": Set {
+    "1.2.",
+  },
+  "string.prototype.trimend": Set {
+    "1.0.",
+  },
+  "string.prototype.trimstart": Set {
+    "1.0.",
+  },
+  "string_decoder": Set {
+    "1.3.",
+  },
+  "stringify-entities": Set {
+    "4.0.",
+  },
+  "strip-ansi": Set {
+    "6.0.",
+    "7.1.",
+  },
+  "strip-bom": Set {
+    "3.0.",
+  },
+  "strip-final-newline": Set {
+    "2.0.",
+    "3.0.",
+  },
+  "strip-json-comments": Set {
+    "2.0.",
+    "3.1.",
+  },
+  "striptags": Set {
+    "3.2.",
+  },
+  "structured-source": Set {
+    "4.0.",
+  },
+  "style-mod": Set {
+    "4.1.",
+  },
+  "style-to-object": Set {
+    "1.0.",
+  },
+  "styled-jsx": Set {
+    "5.1.1",
+  },
+  "stylis": Set {
+    "4.2.",
+    "4.3.",
+  },
+  "sucrase": Set {
+    "3.34.",
+  },
+  "sugarss": Set {
+    "4.0.1",
+  },
+  "superstruct": Set {
+    "0.14.",
+    "1.0.",
+  },
+  "supports-color": Set {
+    "5.5.",
+    "7.2.",
+  },
+  "supports-preserve-symlinks-flag": Set {
+    "1.0.",
+  },
+  "swiper": Set {
+    "11.0.",
+  },
+  "swr": Set {
+    "2.2.4",
+  },
+  "symbol-tree": Set {
+    "3.2.",
+  },
+  "tabbable": Set {
+    "6.2.",
+  },
+  "tailwind-merge": Set {
+    "2.2.",
+  },
+  "tailwind-scrollbar-hide": Set {
+    "1.1.",
+  },
+  "tailwindcss": Set {
+    "3.4.",
+  },
+  "tailwindcss-animate": Set {
+    "1.0.7",
+  },
+  "tailwindcss-variable-colors": Set {
+    "0.0.2",
+  },
+  "tapable": Set {
+    "2.2.",
+  },
+  "tar-fs": Set {
+    "2.1.",
+    "3.0.",
+  },
+  "tar-stream": Set {
+    "2.2.",
+    "3.1.",
+  },
+  "text-encoding-utf-8": Set {
+    "1.0.",
+  },
+  "text-table": Set {
+    "0.2.",
+  },
+  "thenify": Set {
+    "3.3.",
+  },
+  "thenify-all": Set {
+    "1.6.",
+  },
+  "thread-stream": Set {
+    "0.15.",
+  },
+  "through": Set {
+    "2.3.",
+  },
+  "tiny-invariant": Set {
+    "1.2.",
+  },
+  "to-fast-properties": Set {
+    "2.0.",
+  },
+  "to-regex-range": Set {
+    "5.0.",
+  },
+  "toggle-selection": Set {
+    "1.0.",
+  },
+  "totalist": Set {
+    "3.0.",
+  },
+  "tough-cookie": Set {
+    "4.1.",
+  },
+  "tr46": Set {
+    "0.0.",
+    "5.0.",
+  },
+  "trim-left": Set {
+    "1.0.",
+  },
+  "trim-lines": Set {
+    "3.0.",
+  },
+  "trim-right": Set {
+    "1.0.",
+  },
+  "trough": Set {
+    "2.1.",
+  },
+  "ts-api-utils": Set {
+    "1.0.3",
+  },
+  "ts-dedent": Set {
+    "2.2.",
+  },
+  "ts-essentials": Set {
+    "9.4.1",
+  },
+  "ts-interface-checker": Set {
+    "0.1.1",
+  },
+  "tsconfig-paths": Set {
+    "3.15.",
+  },
+  "tslib": Set {
+    "1.14.",
+    "2.6.",
+  },
+  "tunnel-agent": Set {
+    "0.6.",
+  },
+  "type-check": Set {
+    "0.4.",
+  },
+  "type-fest": Set {
+    "0.20.",
+    "1.4.",
+    "3.13.",
+  },
+  "typed-array-buffer": Set {
+    "1.0.",
+  },
+  "typed-array-byte-length": Set {
+    "1.0.",
+  },
+  "typed-array-byte-offset": Set {
+    "1.0.",
+  },
+  "typed-array-length": Set {
+    "1.0.",
+  },
+  "typedarray-to-buffer": Set {
+    "3.1.",
+  },
+  "typescript": Set {
+    "5.3.",
+  },
+  "ufo": Set {
+    "1.3.",
+  },
+  "uint8arrays": Set {
+    "3.1.",
+  },
+  "unbox-primitive": Set {
+    "1.0.",
+  },
+  "uncrypto": Set {
+    "0.1.",
+  },
+  "undici": Set {
+    "6.6.",
+  },
+  "undici-types": Set {
+    "5.26.",
+  },
+  "unenv": Set {
+    "1.8.",
+  },
+  "unfetch": Set {
+    "4.2.",
+  },
+  "unicode-emoji-modifier-base": Set {
+    "1.0.",
+  },
+  "unified": Set {
+    "11.0.",
+  },
+  "unique-string": Set {
+    "3.0.",
+  },
+  "unist-builder": Set {
+    "4.0.",
+  },
+  "unist-util-filter": Set {
+    "5.0.",
+  },
+  "unist-util-find-after": Set {
+    "5.0.",
+  },
+  "unist-util-is": Set {
+    "6.0.",
+  },
+  "unist-util-map": Set {
+    "3.1.",
+  },
+  "unist-util-position": Set {
+    "5.0.",
+  },
+  "unist-util-remove-position": Set {
+    "5.0.",
+  },
+  "unist-util-stringify-position": Set {
+    "3.0.",
+    "4.0.",
+  },
+  "unist-util-visit": Set {
+    "5.0.",
+  },
+  "unist-util-visit-parents": Set {
+    "6.0.",
+  },
+  "universalify": Set {
+    "0.2.",
+    "2.0.",
+  },
+  "unstorage": Set {
+    "1.10.1",
+  },
+  "untun": Set {
+    "0.1.",
+  },
+  "update-browserslist-db": Set {
+    "1.0.13",
+  },
+  "uqr": Set {
+    "0.1.",
+  },
+  "uri-js": Set {
+    "4.4.",
+  },
+  "url-parse": Set {
+    "1.5.1",
+  },
+  "use-callback-ref": Set {
+    "1.3.1",
+  },
+  "use-composed-ref": Set {
+    "1.3.0",
+  },
+  "use-intl": Set {
+    "3.8.0",
+  },
+  "use-isomorphic-layout-effect": Set {
+    "1.1.2",
+  },
+  "use-latest": Set {
+    "1.2.1",
+  },
+  "use-sidecar": Set {
+    "1.1.2",
+  },
+  "use-sync-external-store": Set {
+    "1.2.0",
+  },
+  "utf-8-validate": Set {
+    "5.0.1",
+  },
+  "util": Set {
+    "0.12.",
+  },
+  "util-deprecate": Set {
+    "1.0.",
+  },
+  "uuid": Set {
+    "8.3.",
+    "9.0.",
+  },
+  "uvu": Set {
+    "0.5.",
+  },
+  "validator": Set {
+    "13.11.",
+  },
+  "valtio": Set {
+    "1.11.2",
+    "1.13.1",
+  },
+  "vfile": Set {
+    "6.0.",
+  },
+  "vfile-location": Set {
+    "5.0.",
+  },
+  "vfile-message": Set {
+    "4.0.",
+  },
+  "viem": Set {
+    "1.21.1",
+    "2.1.1",
+  },
+  "vscode-languageserver-textdocument": Set {
+    "1.0.1",
+  },
+  "vscode-uri": Set {
+    "3.0.",
+  },
+  "w3c-keyname": Set {
+    "2.2.",
+  },
+  "w3c-xmlserializer": Set {
+    "5.0.",
+  },
+  "wagmi": Set {
+    "1.4.13",
+  },
+  "warning": Set {
+    "4.0.",
+  },
+  "web-namespaces": Set {
+    "2.0.",
+  },
+  "web-streams-polyfill": Set {
+    "3.3.",
+    "4.0.0-beta.",
+  },
+  "web-worker": Set {
+    "1.3.",
+  },
+  "webidl-conversions": Set {
+    "3.0.",
+    "7.0.",
+  },
+  "webpack-bundle-analyzer": Set {
+    "4.10.",
+  },
+  "webworkify-webpack": Set {
+    "2.1.",
+  },
+  "whatwg-encoding": Set {
+    "3.1.",
+  },
+  "whatwg-mimetype": Set {
+    "4.0.",
+  },
+  "whatwg-url": Set {
+    "14.0.",
+    "5.0.",
+  },
+  "which": Set {
+    "2.0.",
+  },
+  "which-boxed-primitive": Set {
+    "1.0.",
+  },
+  "which-builtin-type": Set {
+    "1.1.",
+  },
+  "which-collection": Set {
+    "1.0.",
+  },
+  "which-module": Set {
+    "2.0.",
+  },
+  "which-typed-array": Set {
+    "1.1.1",
+  },
+  "wonka": Set {
+    "6.3.",
+  },
+  "wrap-ansi": Set {
+    "6.2.",
+    "7.0.",
+    "8.1.",
+    "9.0.",
+  },
+  "wrappy": Set {
+    "1.0.",
+  },
+  "write-file-atomic": Set {
+    "3.0.",
+  },
+  "ws": Set {
+    "7.5.",
+    "8.13.",
+    "8.16.0",
+  },
+  "xdg-basedir": Set {
+    "5.1.",
+  },
+  "xml-name-validator": Set {
+    "5.0.",
+  },
+  "xml2js": Set {
+    "0.5.",
+  },
+  "xmlbuilder": Set {
+    "11.0.",
+    "15.1.",
+  },
+  "xmlchars": Set {
+    "2.2.",
+  },
+  "xregexp": Set {
+    "5.1.",
+  },
+  "xtend": Set {
+    "4.0.",
+  },
+  "y18n": Set {
+    "4.0.",
+    "5.0.",
+  },
+  "yallist": Set {
+    "3.1.",
+    "4.0.",
+  },
+  "yaml": Set {
+    "1.10.",
+    "2.3.",
+  },
+  "yargs": Set {
+    "15.4.",
+    "17.7.",
+  },
+  "yargs-parser": Set {
+    "18.1.",
+    "21.1.",
+  },
+  "yocto-queue": Set {
+    "0.1.",
+  },
+  "zod": Set {
+    "3.22.",
+  },
+  "zod-to-json-schema": Set {
+    "3.22.4",
+  },
+  "zustand": Set {
+    "4.5.1",
+  },
+  "zwitch": Set {
+    "2.0.",
+  },
+}
+`;
+
+exports[`get version for fixtures > ./fixtures/yarn-v1.lock 1`] = `
+{
+  "@ampproject/remapping": Set {
+    "2.2.0",
+  },
+  "@babel/code-frame": Set {
+    "7.12.11",
+    "7.18.6",
+  },
+  "@babel/compat-data": Set {
+    "7.20.5",
+  },
+  "@babel/core": Set {
+    "7.20.5",
+  },
+  "@babel/generator": Set {
+    "7.20.5",
+  },
+  "@babel/helper-compilation-targets": Set {
+    "7.20.0",
+  },
+  "@babel/helper-environment-visitor": Set {
+    "7.18.9",
+  },
+  "@babel/helper-function-name": Set {
+    "7.19.0",
+  },
+  "@babel/helper-hoist-variables": Set {
+    "7.18.6",
+  },
+  "@babel/helper-module-imports": Set {
+    "7.18.6",
+  },
+  "@babel/helper-module-transforms": Set {
+    "7.20.2",
+  },
+  "@babel/helper-plugin-utils": Set {
+    "7.0.0",
+    "7.10.4",
+    "7.14.5",
+    "7.8.3",
+  },
+  "@babel/helper-simple-access": Set {
+    "7.20.2",
+  },
+  "@babel/helper-split-export-declaration": Set {
+    "7.18.6",
+  },
+  "@babel/helper-string-parser": Set {
+    "7.19.4",
+  },
+  "@babel/helper-validator-identifier": Set {
+    "7.19.1",
+  },
+  "@babel/helper-validator-option": Set {
+    "7.18.6",
+  },
+  "@babel/helpers": Set {
+    "7.20.6",
+  },
+  "@babel/highlight": Set {
+    "7.18.6",
+  },
+  "@babel/parser": Set {
+    "7.20.5",
+  },
+  "@babel/plugin-syntax-async-generators": Set {
+    "7.8.4",
+  },
+  "@babel/plugin-syntax-bigint": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-class-properties": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-import-meta": Set {
+    "7.10.4",
+  },
+  "@babel/plugin-syntax-json-strings": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-logical-assignment-operators": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-nullish-coalescing-operator": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-numeric-separator": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-object-rest-spread": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-optional-catch-binding": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-optional-chaining": Set {
+    "7.8.3",
+  },
+  "@babel/plugin-syntax-top-level-await": Set {
+    "7.14.5",
+  },
+  "@babel/plugin-syntax-typescript": Set {
+    "7.14.5",
+  },
+  "@babel/template": Set {
+    "7.18.10",
+  },
+  "@babel/traverse": Set {
+    "7.20.5",
+  },
+  "@babel/types": Set {
+    "7.20.5",
+  },
+  "@bcoe/v8-coverage": Set {
+    "0.2.3",
+  },
+  "@commitlint/cli": Set {
+    "13.1.0",
+  },
+  "@commitlint/config-conventional": Set {
+    "13.1.0",
+  },
+  "@commitlint/ensure": Set {
+    "13.1.0",
+  },
+  "@commitlint/execute-rule": Set {
+    "13.0.0",
+  },
+  "@commitlint/format": Set {
+    "13.1.0",
+  },
+  "@commitlint/is-ignored": Set {
+    "13.1.0",
+  },
+  "@commitlint/lint": Set {
+    "13.1.0",
+  },
+  "@commitlint/load": Set {
+    "13.1.0",
+  },
+  "@commitlint/message": Set {
+    "13.0.0",
+  },
+  "@commitlint/parse": Set {
+    "13.1.0",
+  },
+  "@commitlint/read": Set {
+    "13.1.0",
+  },
+  "@commitlint/resolve-extends": Set {
+    "13.0.0",
+  },
+  "@commitlint/rules": Set {
+    "13.1.0",
+  },
+  "@commitlint/to-lines": Set {
+    "13.0.0",
+  },
+  "@commitlint/top-level": Set {
+    "13.0.0",
+  },
+  "@commitlint/types": Set {
+    "13.1.0",
+  },
+  "@eslint/eslintrc": Set {
+    "0.4.2",
+  },
+  "@fastify/busboy": Set {
+    "1.0.0",
+  },
+  "@gar/promisify": Set {
+    "1.1.2",
+  },
+  "@hutson/parse-repository-url": Set {
+    "3.0.2",
+  },
+  "@istanbuljs/load-nyc-config": Set {
+    "1.0.0",
+  },
+  "@istanbuljs/schema": Set {
+    "0.1.2",
+  },
+  "@jest/console": Set {
+    "27.2.0",
+  },
+  "@jest/core": Set {
+    "27.2.1",
+  },
+  "@jest/environment": Set {
+    "27.2.0",
+  },
+  "@jest/fake-timers": Set {
+    "27.2.0",
+  },
+  "@jest/globals": Set {
+    "27.2.1",
+  },
+  "@jest/reporters": Set {
+    "27.2.1",
+  },
+  "@jest/source-map": Set {
+    "27.0.6",
+  },
+  "@jest/test-result": Set {
+    "27.2.0",
+  },
+  "@jest/test-sequencer": Set {
+    "27.2.1",
+  },
+  "@jest/transform": Set {
+    "27.2.1",
+  },
+  "@jest/types": Set {
+    "27.1.0",
+    "27.1.1",
+  },
+  "@jridgewell/gen-mapping": Set {
+    "0.1.1",
+    "0.3.2",
+  },
+  "@jridgewell/resolve-uri": Set {
+    "3.1.0",
+  },
+  "@jridgewell/set-array": Set {
+    "1.1.2",
+  },
+  "@jridgewell/sourcemap-codec": Set {
+    "1.4.14",
+  },
+  "@jridgewell/trace-mapping": Set {
+    "0.3.17",
+  },
+  "@lerna/add": Set {
+    "4.0.0",
+  },
+  "@lerna/bootstrap": Set {
+    "4.0.0",
+  },
+  "@lerna/changed": Set {
+    "4.0.0",
+  },
+  "@lerna/check-working-tree": Set {
+    "4.0.0",
+  },
+  "@lerna/child-process": Set {
+    "4.0.0",
+  },
+  "@lerna/clean": Set {
+    "4.0.0",
+  },
+  "@lerna/cli": Set {
+    "4.0.0",
+  },
+  "@lerna/collect-uncommitted": Set {
+    "4.0.0",
+  },
+  "@lerna/collect-updates": Set {
+    "4.0.0",
+  },
+  "@lerna/command": Set {
+    "4.0.0",
+  },
+  "@lerna/conventional-commits": Set {
+    "4.0.0",
+  },
+  "@lerna/create": Set {
+    "4.0.0",
+  },
+  "@lerna/create-symlink": Set {
+    "4.0.0",
+  },
+  "@lerna/describe-ref": Set {
+    "4.0.0",
+  },
+  "@lerna/diff": Set {
+    "4.0.0",
+  },
+  "@lerna/exec": Set {
+    "4.0.0",
+  },
+  "@lerna/filter-options": Set {
+    "4.0.0",
+  },
+  "@lerna/filter-packages": Set {
+    "4.0.0",
+  },
+  "@lerna/get-npm-exec-opts": Set {
+    "4.0.0",
+  },
+  "@lerna/get-packed": Set {
+    "4.0.0",
+  },
+  "@lerna/github-client": Set {
+    "4.0.0",
+  },
+  "@lerna/gitlab-client": Set {
+    "4.0.0",
+  },
+  "@lerna/global-options": Set {
+    "4.0.0",
+  },
+  "@lerna/has-npm-version": Set {
+    "4.0.0",
+  },
+  "@lerna/import": Set {
+    "4.0.0",
+  },
+  "@lerna/info": Set {
+    "4.0.0",
+  },
+  "@lerna/init": Set {
+    "4.0.0",
+  },
+  "@lerna/link": Set {
+    "4.0.0",
+  },
+  "@lerna/list": Set {
+    "4.0.0",
+  },
+  "@lerna/listable": Set {
+    "4.0.0",
+  },
+  "@lerna/log-packed": Set {
+    "4.0.0",
+  },
+  "@lerna/npm-conf": Set {
+    "4.0.0",
+  },
+  "@lerna/npm-dist-tag": Set {
+    "4.0.0",
+  },
+  "@lerna/npm-install": Set {
+    "4.0.0",
+  },
+  "@lerna/npm-publish": Set {
+    "4.0.0",
+  },
+  "@lerna/npm-run-script": Set {
+    "4.0.0",
+  },
+  "@lerna/otplease": Set {
+    "4.0.0",
+  },
+  "@lerna/output": Set {
+    "4.0.0",
+  },
+  "@lerna/pack-directory": Set {
+    "4.0.0",
+  },
+  "@lerna/package": Set {
+    "4.0.0",
+  },
+  "@lerna/package-graph": Set {
+    "4.0.0",
+  },
+  "@lerna/prerelease-id-from-version": Set {
+    "4.0.0",
+  },
+  "@lerna/profiler": Set {
+    "4.0.0",
+  },
+  "@lerna/project": Set {
+    "4.0.0",
+  },
+  "@lerna/prompt": Set {
+    "4.0.0",
+  },
+  "@lerna/publish": Set {
+    "4.0.0",
+  },
+  "@lerna/pulse-till-done": Set {
+    "4.0.0",
+  },
+  "@lerna/query-graph": Set {
+    "4.0.0",
+  },
+  "@lerna/resolve-symlink": Set {
+    "4.0.0",
+  },
+  "@lerna/rimraf-dir": Set {
+    "4.0.0",
+  },
+  "@lerna/run": Set {
+    "4.0.0",
+  },
+  "@lerna/run-lifecycle": Set {
+    "4.0.0",
+  },
+  "@lerna/run-topologically": Set {
+    "4.0.0",
+  },
+  "@lerna/symlink-binary": Set {
+    "4.0.0",
+  },
+  "@lerna/symlink-dependencies": Set {
+    "4.0.0",
+  },
+  "@lerna/timer": Set {
+    "4.0.0",
+  },
+  "@lerna/validation-error": Set {
+    "4.0.0",
+  },
+  "@lerna/version": Set {
+    "4.0.0",
+  },
+  "@lerna/write-log-file": Set {
+    "4.0.0",
+  },
+  "@nodelib/fs.scandir": Set {
+    "2.1.3",
+  },
+  "@nodelib/fs.stat": Set {
+    "2.0.3",
+  },
+  "@nodelib/fs.walk": Set {
+    "1.2.4",
+  },
+  "@npmcli/ci-detect": Set {
+    "1.3.0",
+  },
+  "@npmcli/fs": Set {
+    "1.0.0",
+  },
+  "@npmcli/git": Set {
+    "2.1.0",
+  },
+  "@npmcli/installed-package-contents": Set {
+    "1.0.7",
+  },
+  "@npmcli/move-file": Set {
+    "1.1.2",
+  },
+  "@npmcli/node-gyp": Set {
+    "1.0.2",
+  },
+  "@npmcli/promise-spawn": Set {
+    "1.3.2",
+  },
+  "@npmcli/run-script": Set {
+    "1.8.6",
+  },
+  "@octokit/auth-token": Set {
+    "2.4.5",
+  },
+  "@octokit/core": Set {
+    "3.5.1",
+  },
+  "@octokit/endpoint": Set {
+    "6.0.12",
+  },
+  "@octokit/graphql": Set {
+    "4.6.4",
+  },
+  "@octokit/openapi-types": Set {
+    "9.7.0",
+  },
+  "@octokit/plugin-enterprise-rest": Set {
+    "6.0.1",
+  },
+  "@octokit/plugin-paginate-rest": Set {
+    "2.15.1",
+  },
+  "@octokit/plugin-request-log": Set {
+    "1.0.4",
+  },
+  "@octokit/plugin-rest-endpoint-methods": Set {
+    "5.8.0",
+  },
+  "@octokit/request": Set {
+    "5.6.1",
+  },
+  "@octokit/request-error": Set {
+    "2.1.0",
+  },
+  "@octokit/rest": Set {
+    "18.9.1",
+  },
+  "@octokit/types": Set {
+    "6.25.0",
+  },
+  "@sinonjs/commons": Set {
+    "1.7.0",
+  },
+  "@sinonjs/fake-timers": Set {
+    "7.1.2",
+  },
+  "@tootallnate/once": Set {
+    "1.1.2",
+  },
+  "@types/amqp-connection-manager": Set {
+    "2.0.4",
+  },
+  "@types/amqplib": Set {
+    "0.5.13",
+  },
+  "@types/babel__core": Set {
+    "7.1.9",
+    "7.1.15",
+  },
+  "@types/babel__generator": Set {
+    "7.6.0",
+  },
+  "@types/babel__template": Set {
+    "7.0.2",
+  },
+  "@types/babel__traverse": Set {
+    "7.0.7",
+    "7.14.2",
+  },
+  "@types/bluebird": Set {
+    "3.5.27",
+  },
+  "@types/chalk": Set {
+    "2.2.0",
+  },
+  "@types/color-name": Set {
+    "1.1.1",
+  },
+  "@types/content-type": Set {
+    "1.1.2",
+  },
+  "@types/events": Set {
+    "1.2.0",
+  },
+  "@types/file-type": Set {
+    "5.2.2",
+  },
+  "@types/form-data": Set {
+    "2.5.0",
+  },
+  "@types/glob": Set {
+    "7.1.1",
+  },
+  "@types/graceful-fs": Set {
+    "4.1.3",
+  },
+  "@types/istanbul-lib-coverage": Set {
+    "2.0.1",
+  },
+  "@types/istanbul-lib-report": Set {
+    "1.1.1",
+  },
+  "@types/istanbul-reports": Set {
+    "3.0.0",
+  },
+  "@types/jest": Set {
+    "27.0.1",
+  },
+  "@types/json-schema": Set {
+    "7.0.3",
+    "7.0.7",
+  },
+  "@types/json5": Set {
+    "0.0.29",
+  },
+  "@types/mime": Set {
+    "2.0.1",
+  },
+  "@types/minimatch": Set {
+    "3.0.3",
+    "3.0.5",
+  },
+  "@types/minimist": Set {
+    "1.2.2",
+  },
+  "@types/node": Set {
+    "10.12.12",
+    "12.12.6",
+  },
+  "@types/normalize-package-data": Set {
+    "2.4.0",
+  },
+  "@types/parse-json": Set {
+    "4.0.0",
+  },
+  "@types/prettier": Set {
+    "2.3.2",
+  },
+  "@types/qs": Set {
+    "6.5.1",
+    "6.9.0",
+  },
+  "@types/redis": Set {
+    "2.8.14",
+  },
+  "@types/rimraf": Set {
+    "2.0.2",
+  },
+  "@types/stack-utils": Set {
+    "2.0.1",
+  },
+  "@types/type-is": Set {
+    "1.6.2",
+  },
+  "@types/uuid": Set {
+    "7.0.0",
+  },
+  "@types/ws": Set {
+    "6.0.1",
+  },
+  "@types/yargs": Set {
+    "16.0.4",
+  },
+  "@types/yargs-parser": Set {
+    "13.1.0",
+  },
+  "@typescript-eslint/eslint-plugin": Set {
+    "4.30.0",
+  },
+  "@typescript-eslint/experimental-utils": Set {
+    "4.30.0",
+    "3.10.1",
+  },
+  "@typescript-eslint/parser": Set {
+    "4.30.0",
+  },
+  "@typescript-eslint/scope-manager": Set {
+    "4.30.0",
+  },
+  "@typescript-eslint/types": Set {
+    "3.10.1",
+    "4.30.0",
+  },
+  "@typescript-eslint/typescript-estree": Set {
+    "3.10.1",
+    "4.30.0",
+  },
+  "@typescript-eslint/visitor-keys": Set {
+    "3.10.1",
+    "4.30.0",
+  },
+  "nopt": Set {
+    "3.0.6",
+  },
+  "readable-stream": Set {
+    "1.1.14",
+  },
+}
+`;

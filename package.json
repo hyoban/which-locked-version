@@ -47,6 +47,9 @@
     "test": "vitest",
     "typecheck": "tsc"
   },
+  "dependencies": {
+    "yaml": "^2.4.5"
+  },
   "devDependencies": {
     "@antfu/ni": "^0.22.0",
     "@types/node": "^20.14.11",
@@ -58,6 +61,7 @@
     "release-it-pnpm": "^4.6.3",
     "simple-git-hooks": "^2.11.1",
     "typescript": "^5.5.3",
+    "vite": "^5.3.4",
     "vitest": "^2.0.3"
   },
   "simple-git-hooks": {
