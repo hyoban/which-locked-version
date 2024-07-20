@@ -49,7 +49,7 @@ function parsePnpmLockFile(parsed: any): PackageVersionMap {
 }
 
 function parseYarnLockFileV1(content: string): PackageVersionMap {
-  const lines = content.match(/^".+":\n {2}version "(\S+)"$/gm)
+  const lines = content.match(/^".+":\r?\n {2}version "(\S+)"$/gm)
   if (!lines)
     return {}
 
